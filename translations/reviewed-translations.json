@@ -1,0 +1,2584 @@
+{
+  "messages/CommonBundle.properties": {
+    "action.text.split": {
+      "source": "Split",
+      "translation": "Scinder"
+    },
+    "action.text.run.all": {
+      "source": "Run All",
+      "translation": "Tout exécuter"
+    },
+    "button.set": {
+      "source": "Set",
+      "translation": "Définir"
+    },
+    "button.reuse": {
+      "source": "Reuse",
+      "translation": "Réutiliser"
+    },
+    "label.name": {
+      "source": "Name",
+      "translation": "Nom"
+    },
+    "label.kind": {
+      "source": "Kind",
+      "translation": "Type"
+    },
+    "tab.title.general": {
+      "source": "General",
+      "translation": "Général"
+    },
+    "title.pull.up": {
+      "source": "Pull up",
+      "translation": "Remonter les membres"
+    },
+    "title.output": {
+      "source": "Output",
+      "translation": "Sortie"
+    },
+    "title.name": {
+      "source": "Name",
+      "translation": "Nom"
+    }
+  },
+  "messages/ActionsBundle.properties": {
+    "action.Vcs.ShowMessageHistory.text": {
+      "source": "Commit Message History",
+      "translation": "Historique des messages de commit"
+    },
+    "action.synonym.Vcs.ShowHistoryForBlock.method.text": {
+      "source": "Show History for Method…",
+      "translation": "Afficher l’historique de la méthode…"
+    },
+    "action.synonym.Vcs.ShowHistoryForBlock.class.text": {
+      "source": "Show History for Class…",
+      "translation": "Afficher l’historique de la classe…"
+    },
+    "action.Vcs.ShowHistoryForRevision.text": {
+      "source": "History Up to Here",
+      "translation": "Historique jusqu’ici"
+    },
+    "group.RunContextPopupGroup.text": {
+      "source": "Run Configurations",
+      "translation": "Configurations d’exécution"
+    },
+    "action.EditorChooseLookupItem.text": {
+      "source": "Choose Lookup Item",
+      "translation": "Choisir la suggestion"
+    },
+    "action.EditorChooseLookupItemReplace.text": {
+      "source": "Choose Lookup Item Replace",
+      "translation": "Choisir la suggestion et remplacer"
+    },
+    "action.EditorChooseLookupItemCompleteStatement.text": {
+      "source": "Choose Lookup Item and Invoke Complete Statement",
+      "translation": "Choisir la suggestion et compléter l’instruction"
+    },
+    "action.EditorChooseLookupItemDot.text": {
+      "source": "Choose Lookup Item and Insert Dot",
+      "translation": "Choisir la suggestion et insérer un point"
+    },
+    "action.NextTemplateVariable.text": {
+      "source": "Next Template Variable or Finish In-Place Refactoring",
+      "translation": "Variable suivante du modèle ou terminer la refactorisation sur place"
+    },
+    "action.SelectVirtualTemplateElement.text": {
+      "source": "Show Options Popup for In-place Refactoring",
+      "translation": "Afficher les options de refactorisation sur place"
+    },
+    "action.PreviousTemplateVariable.text": {
+      "source": "Previous Template Variable",
+      "translation": "Variable précédente du modèle"
+    },
+    "action.NextParameter.text": {
+      "source": "Next Parameter",
+      "translation": "Paramètre suivant"
+    },
+    "action.EditorPageUp.text": {
+      "source": "Page Up",
+      "translation": "Page précédente"
+    },
+    "action.EditorPageDown.text": {
+      "source": "Page Down",
+      "translation": "Page suivante"
+    },
+    "action.EditorPageUpWithSelection.text": {
+      "source": "Page Up with Selection",
+      "translation": "Page précédente avec sélection"
+    },
+    "action.EditorPageDownWithSelection.text": {
+      "source": "Page Down with Selection",
+      "translation": "Page suivante avec sélection"
+    },
+    "action.EditorPasteSimple.text": {
+      "source": "Paste as P_lain Text",
+      "translation": "Coller en texte brut"
+    },
+    "action.EditorPasteFromX11.text": {
+      "source": "Paste from X Clipboard",
+      "translation": "Coller depuis le presse-papiers X11"
+    },
+    "action.EditorBackSpace.text": {
+      "source": "Backspace",
+      "translation": "Retour arrière"
+    },
+    "action.EditorHungryBackSpace.text": {
+      "source": "Hungry Backspace",
+      "translation": "Retour arrière intelligent"
+    },
+    "action.EditorMoveToPageTop.text": {
+      "source": "Move Caret to Page Top",
+      "translation": "Placer le curseur en haut de la page"
+    },
+    "action.EditorMoveToPageBottom.text": {
+      "source": "Move Caret to Page Bottom",
+      "translation": "Placer le curseur en bas de la page"
+    },
+    "action.EditorMoveToPageTopWithSelection.text": {
+      "source": "Move Caret to Page Top with Selection",
+      "translation": "Placer le curseur en haut de la page avec sélection"
+    },
+    "action.EditorMoveToPageBottomWithSelection.text": {
+      "source": "Move Caret to Page Bottom with Selection",
+      "translation": "Placer le curseur en bas de la page avec sélection"
+    },
+    "action.EditorEnter.text": {
+      "source": "Enter",
+      "translation": "Entrée"
+    },
+    "action.EditorEscape.text": {
+      "source": "Escape",
+      "translation": "Échap"
+    },
+    "action.FocusEditor.text": {
+      "source": "Focus Editor",
+      "translation": "Placer le focus dans l’éditeur"
+    },
+    "action.FocusMainToolbar.text": {
+      "source": "Focus Main Toolbar",
+      "translation": "Placer le focus sur la barre d’outils principale"
+    },
+    "action.FocusStatusBar.text": {
+      "source": "Focus Status Bar",
+      "translation": "Placer le focus sur la barre d’état"
+    },
+    "action.EditorUp.text": {
+      "source": "Up",
+      "translation": "Haut"
+    },
+    "action.EditorDown.text": {
+      "source": "Down",
+      "translation": "Bas"
+    },
+    "action.EditorUpWithSelection.text": {
+      "source": "Up with Selection",
+      "translation": "Haut avec sélection"
+    },
+    "action.EditorDownWithSelection.text": {
+      "source": "Down with Selection",
+      "translation": "Bas avec sélection"
+    },
+    "action.EditorLookupUp.text": {
+      "source": "Lookup Up",
+      "translation": "Suggestion précédente"
+    },
+    "action.EditorLookupDown.text": {
+      "source": "Lookup Down",
+      "translation": "Suggestion suivante"
+    },
+    "action.EditorLookupSelectionUp.text": {
+      "source": "Select Previous Completion Option",
+      "translation": "Sélectionner la suggestion de complétion précédente"
+    },
+    "action.EditorLookupSelectionDown.text": {
+      "source": "Select Next Completion Option",
+      "translation": "Sélectionner la suggestion de complétion suivante"
+    },
+    "group.RunDashboard.ViewOptions.text": {
+      "source": "Run Configurations",
+      "translation": "Configurations d’exécution"
+    },
+    "action.EditorLineStart.text": {
+      "source": "Move Caret to Line Start",
+      "translation": "Placer le curseur au début de la ligne",
+      "review": "manual"
+    },
+    "action.EditorLineEnd.text": {
+      "source": "Move Caret to Line End",
+      "translation": "Placer le curseur à la fin de la ligne",
+      "review": "manual"
+    },
+    "action.EditorTextStart.text": {
+      "source": "Move Caret to Text Start",
+      "translation": "Placer le curseur au début du texte",
+      "review": "manual"
+    },
+    "action.EditorTextEnd.text": {
+      "source": "Move Caret to Text End",
+      "translation": "Placer le curseur à la fin du texte",
+      "review": "manual"
+    },
+    "action.EditorLineStartWithSelection.text": {
+      "source": "Move Caret to Line Start with Selection",
+      "translation": "Placer le curseur au début de la ligne avec sélection",
+      "review": "manual"
+    },
+    "action.EditorLineEndWithSelection.text": {
+      "source": "Move Caret to Line End with Selection",
+      "translation": "Placer le curseur à la fin de la ligne avec sélection",
+      "review": "manual"
+    },
+    "action.EditorTextStartWithSelection.text": {
+      "source": "Move Caret to Text Start with Selection",
+      "translation": "Placer le curseur au début du texte avec sélection",
+      "review": "manual"
+    },
+    "action.EditorTextEndWithSelection.text": {
+      "source": "Move Caret to Text End with Selection",
+      "translation": "Placer le curseur à la fin du texte avec sélection",
+      "review": "manual"
+    },
+    "action.EditorNextWord.text": {
+      "source": "Move Caret to Next Word",
+      "translation": "Placer le curseur au mot suivant",
+      "review": "manual"
+    },
+    "action.EditorPreviousWord.text": {
+      "source": "Move Caret to Previous Word",
+      "translation": "Placer le curseur au mot précédent",
+      "review": "manual"
+    },
+    "action.EditorNextWordWithSelection.text": {
+      "source": "Move Caret to Next Word with Selection",
+      "translation": "Placer le curseur au mot suivant avec sélection",
+      "review": "manual"
+    },
+    "action.EditorPreviousWordWithSelection.text": {
+      "source": "Move Caret to Previous Word with Selection",
+      "translation": "Placer le curseur au mot précédent avec sélection",
+      "review": "manual"
+    },
+    "action.EditorCodeBlockStart.text": {
+      "source": "Move Caret to Code Block Start",
+      "translation": "Placer le curseur au début du bloc de code",
+      "review": "manual"
+    },
+    "action.EditorCodeBlockEnd.text": {
+      "source": "Move Caret to Code Block End",
+      "translation": "Placer le curseur à la fin du bloc de code",
+      "review": "manual"
+    },
+    "action.EditorCodeBlockStartWithSelection.text": {
+      "source": "Move Caret to Code Block Start with Selection",
+      "translation": "Placer le curseur au début du bloc de code avec sélection",
+      "review": "manual"
+    },
+    "action.EditorCodeBlockEndWithSelection.text": {
+      "source": "Move Caret to Code Block End with Selection",
+      "translation": "Placer le curseur à la fin du bloc de code avec sélection",
+      "review": "manual"
+    },
+    "action.EditorMatchBrace.text": {
+      "source": "Move Caret to Matching Brace",
+      "translation": "Placer le curseur sur l’accolade correspondante",
+      "review": "manual"
+    },
+    "action.EditorNextWordInDifferentHumpsMode.text": {
+      "source": "Move Caret to Next Word in Different \"CamelHumps\" Mode",
+      "translation": "Déplacez le curseur vers le mot suivant en mode \"CamelHumps\"",
+      "review": "terminology"
+    },
+    "action.EditorPreviousWordInDifferentHumpsMode.text": {
+      "source": "Move Caret to Previous Word in Different \"CamelHumps\" Mode",
+      "translation": "Déplacez le curseur vers le mot précédent en mode différent \"CamelHumps\"",
+      "review": "terminology"
+    },
+    "action.EditorNextWordInDifferentHumpsModeWithSelection.text": {
+      "source": "Move Caret to Next Word with Selection in Different \"CamelHumps\" Mode",
+      "translation": "Déplacez le curseur vers le mot suivant avec la sélection en mode différent \"CamelHumps\"",
+      "review": "terminology"
+    },
+    "action.EditorPreviousWordInDifferentHumpsModeWithSelection.text": {
+      "source": "Move Caret to Previous Word with Selection in Different \"CamelHumps\" Mode",
+      "translation": "Déplacez le curseur vers le mot précédent avec la sélection en différents modes \"CamelHumps\"",
+      "review": "terminology"
+    },
+    "action.PasteMultiple.text": {
+      "source": "Past_e from History…",
+      "translation": "Coller depuis l’historique…",
+      "review": "manual"
+    },
+    "action.VcsShowCurrentChangeMarker.text": {
+      "source": "C_hange Under Caret",
+      "translation": "Changement sous le curseur",
+      "review": "terminology"
+    },
+    "action.SetCaretVisualAttributesInternalAction.text": {
+      "source": "Set Caret Visual Attributes…",
+      "translation": "Définir les attributs visuels du curseur...",
+      "review": "terminology"
+    },
+    "action.EditorRemoveCustomWrapsAtCaret.text": {
+      "source": "Remove Custom Wraps At Caret",
+      "translation": "Supprimer les sauts de ligne personnalisés au niveau du curseur",
+      "review": "manual"
+    },
+    "action.UndoDumpAction.text": {
+      "source": "Dump Undo History",
+      "translation": "Exporter l’historique d’annulation",
+      "review": "manual"
+    },
+    "group.EditMenu.text": {
+      "source": "_Edit",
+      "translation": "Édition",
+      "review": "manual"
+    },
+    "action.Find.text": {
+      "source": "_Find…",
+      "translation": "Rechercher…",
+      "review": "manual"
+    },
+    "action.FindNext.text": {
+      "source": "Find _Next / Move to Next Occurrence",
+      "translation": "Rechercher l’occurrence suivante / Aller à l’occurrence suivante",
+      "review": "manual"
+    },
+    "action.FindNext.MainMenu.text": {
+      "source": "Find _Next Occurrence",
+      "translation": "Occurrence suivante",
+      "review": "manual"
+    },
+    "action.FindPrevious.text": {
+      "source": "Find Pre_vious / Move to Previous Occurrence",
+      "translation": "Rechercher l’occurrence précédente / Aller à l’occurrence précédente",
+      "review": "manual"
+    },
+    "action.FindPrevious.MainMenu.text": {
+      "source": "Find Pre_vious Occurrence",
+      "translation": "Occurrence précédente",
+      "review": "manual"
+    },
+    "action.FindWordAtCaret.text": {
+      "source": "Next Occurrence of the Word at Caret",
+      "translation": "Occurrence suivante du mot sous le curseur",
+      "review": "manual"
+    },
+    "action.FindPrevWordAtCaret.text": {
+      "source": "Previous Occurrence of the Word at Caret",
+      "translation": "Occurrence précédente du mot sous le curseur",
+      "review": "manual"
+    },
+    "action.ShowSettingsAndFindUsages.text": {
+      "source": "Find Usages Settings…",
+      "translation": "Paramètres de recherche des utilisations…",
+      "review": "manual"
+    },
+    "action.FindUsagesInFile.text": {
+      "source": "F_ind Usages in File",
+      "translation": "Rechercher les utilisations dans le fichier",
+      "review": "manual"
+    },
+    "action.ShowSettingsWithAddedPattern.text": {
+      "source": "Disable Hints for Method",
+      "translation": "Désactiver les indications pour la méthode",
+      "review": "manual"
+    },
+    "action.GotoClass.text": {
+      "source": "Go to Class…",
+      "translation": "Aller à la classe…",
+      "review": "manual"
+    },
+    "action.GotoFile.text": {
+      "source": "Go to File…",
+      "translation": "Aller au fichier…",
+      "review": "manual"
+    },
+    "action.GotoSymbol.text": {
+      "source": "Go to Symbol…",
+      "translation": "Aller au symbole…",
+      "review": "manual"
+    },
+    "action.GotoCustomRegion.text": {
+      "source": "Custom Folding…",
+      "translation": "Repli personnalisé…",
+      "review": "manual"
+    },
+    "action.GotoLine.text": {
+      "source": "Go to Line:Column…",
+      "translation": "Aller à la ligne et à la colonne…",
+      "review": "manual"
+    },
+    "action.GotoLine.MainMenu.text": {
+      "source": "_Line:Column…",
+      "translation": "Ligne et colonne…",
+      "review": "manual"
+    },
+    "action.GotoDeclarationOnly.text": {
+      "source": "Go to Declaration",
+      "translation": "Aller à la déclaration",
+      "review": "manual"
+    },
+    "action.GotoImplementation.MainMenu.text": {
+      "source": "I_mplementation(s)",
+      "translation": "Implémentation(s)",
+      "review": "manual"
+    },
+    "action.GotoNextElementUnderCaretUsage.text": {
+      "source": "Next Highlighted Usage",
+      "translation": "Utilisation surlignée suivante",
+      "review": "manual"
+    },
+    "action.GotoPrevElementUnderCaretUsage.text": {
+      "source": "Previous Highlighted Usage",
+      "translation": "Utilisation surlignée précédente",
+      "review": "manual"
+    },
+    "action.GotoTypeDeclaration.MainMenu.text": {
+      "source": "_Type Declaration",
+      "translation": "Déclaration du type",
+      "review": "manual"
+    },
+    "action.GotoSuperMethod.text": {
+      "source": "Go to Super Method",
+      "translation": "Aller à la méthode parente",
+      "review": "manual"
+    },
+    "action.GotoSuperMethod.MainMenu.text": {
+      "source": "S_uper Method",
+      "translation": "Méthode parente",
+      "review": "manual"
+    },
+    "action.GotoTest.text": {
+      "source": "Go to Test",
+      "translation": "Aller au test",
+      "review": "manual"
+    },
+    "action.GotoTest.MainMenu.text": {
+      "source": "T_est",
+      "translation": "Test",
+      "review": "manual"
+    },
+    "action.GotoTestSubject.text": {
+      "source": "Go to T_est Subject",
+      "translation": "Aller à l’élément testé",
+      "review": "manual"
+    },
+    "action.GotoTestSubject.MainMenu.text": {
+      "source": "T_est Subject",
+      "translation": "Élément testé",
+      "review": "manual"
+    },
+    "action.GotoNextError.text": {
+      "source": "_Next Highlighted Error",
+      "translation": "Erreur surlignée suivante",
+      "review": "manual"
+    },
+    "action.GotoPreviousError.text": {
+      "source": "_Previous Highlighted Error",
+      "translation": "Erreur surlignée précédente",
+      "review": "manual"
+    },
+    "action.SaveAsTemplate.text": {
+      "source": "Save as L_ive Template…",
+      "translation": "Enregistrer comme modèle dynamique…",
+      "review": "manual"
+    },
+    "action.GotoPreviousBookmarkInEditor.text": {
+      "source": "Previous Line Bookmark in Editor",
+      "translation": "Signet de ligne précédent dans l’éditeur",
+      "review": "manual"
+    },
+    "action.OpenFileEditorInBlankDiffWindow.text": {
+      "source": "Switch to a File…",
+      "translation": "Passer à un fichier…",
+      "review": "manual"
+    },
+    "action.FindUsedTestData.text": {
+      "source": "Find Unused Test Data",
+      "translation": "Rechercher les données de test inutilisées",
+      "review": "manual"
+    }
+  },
+  "messages/ApplicationBundle.properties": {
+    "title.screen.reader.support": {
+      "source": "Screen Reader Support",
+      "translation": "Prise en charge des lecteurs d’écran"
+    },
+    "title.linux.accessibility.support": {
+      "source": "Accessibility Support",
+      "translation": "Prise en charge de l’accessibilité"
+    },
+    "title.code.completion.inline": {
+      "source": "Inline",
+      "translation": "Intégrée"
+    },
+    "title.code.completion.popup": {
+      "source": "Popup",
+      "translation": "Fenêtre contextuelle"
+    },
+    "editbox.complete.with.parameters": {
+      "source": "Show parameter name hints on completion",
+      "translation": "Afficher les noms des paramètres lors de la complétion"
+    },
+    "label.autocomplete.when.only.one.choice": {
+      "source": "Automatically insert single suggestions for:",
+      "translation": "Insérer automatiquement une suggestion unique pour :"
+    },
+    "checkbox.autocomplete.smart.type": {
+      "source": "Type-Matching Completion",
+      "translation": "Complétion selon le type"
+    },
+    "checkbox.autocomplete.basic": {
+      "source": "Basic Completion",
+      "translation": "Complétion de base"
+    },
+    "editbox.blanklines.before.package.statement": {
+      "source": "Before package statement:",
+      "translation": "Avant la déclaration package :"
+    },
+    "editbox.blanklines.after.package.statement": {
+      "source": "After package statement:",
+      "translation": "Après la déclaration package :"
+    },
+    "editbox.blanklines.before.imports": {
+      "source": "Before imports:",
+      "translation": "Avant les imports :"
+    },
+    "editbox.blanklines.after.imports": {
+      "source": "After imports:",
+      "translation": "Après les imports :"
+    },
+    "editbox.blanklines.around.class": {
+      "source": "Around class:",
+      "translation": "Autour des classes :"
+    },
+    "editbox.blanklines.around.field": {
+      "source": "Around field:",
+      "translation": "Autour des champs :"
+    },
+    "editbox.blanklines.around.method": {
+      "source": "Around method:",
+      "translation": "Autour des méthodes :"
+    },
+    "editbox.blanklines.before.method.body": {
+      "source": "Before method body:",
+      "translation": "Avant le corps de la méthode :"
+    },
+    "editbox.blanklines.before.class.end": {
+      "source": "Before class end:",
+      "translation": "Avant la fin de la classe :"
+    },
+    "title.blank.lines": {
+      "source": "Blank Lines",
+      "translation": "Lignes vides"
+    },
+    "title.keep.blank.lines": {
+      "source": "Keep maximum blank lines",
+      "translation": "Nombre maximal de lignes vides conservées"
+    },
+    "title.minimum.blank.lines": {
+      "source": "Minimum blank lines",
+      "translation": "Nombre minimal de lignes vides"
+    },
+    "editbox.keep.blanklines.in.code": {
+      "source": "In code:",
+      "translation": "Dans le code :"
+    },
+    "editbox.keep.blanklines.before.rbrace": {
+      "source": "Before '}':",
+      "translation": "Avant « } » :"
+    },
+    "editbox.keep.blanklines.between.header.and.package": {
+      "source": "Between header and package:",
+      "translation": "Entre l’en-tête et la déclaration package :"
+    },
+    "listbox.members.order.methods": {
+      "source": "Instance methods",
+      "translation": "Méthodes d’instance"
+    },
+    "listbox.members.order.inner.classes": {
+      "source": "Inner classes",
+      "translation": "Classes imbriquées"
+    },
+    "title.naming.comment.code": {
+      "source": "Comment Code",
+      "translation": "Commenter le code"
+    },
+    "title.code.generation": {
+      "source": "Code Generation",
+      "translation": "Génération de code"
+    },
+    "radiogroup.rename.local.variables": {
+      "source": "Specify refactoring options:",
+      "translation": "Options de refactorisation :"
+    },
+    "radiobutton.rename.local.variables.in.dialog": {
+      "source": "In modal dialogs",
+      "translation": "Dans des boîtes de dialogue modales"
+    },
+    "checkbox.rename.local.variables.preselect": {
+      "source": "Preselect current symbol name for Rename refactoring",
+      "translation": "Présélectionner le nom du symbole lors du renommage"
+    },
+    "generated.quote.marks": {
+      "source": "Generated quote marks:",
+      "translation": "Guillemets générés :"
+    },
+    "label.wrap.attributes": {
+      "source": "Wrap attributes:",
+      "translation": "Retour à la ligne des attributs :"
+    },
+    "title.imports": {
+      "source": "Imports",
+      "translation": "Imports"
+    },
+    "title.general": {
+      "source": "General",
+      "translation": "Général"
+    },
+    "settings.code.style.tab.title.wrapping.and.braces": {
+      "source": "Wrapping and Braces",
+      "translation": "Retours à la ligne et accolades"
+    },
+    "settings.code.style.tab.title.wrapping": {
+      "source": "Wrapping",
+      "translation": "Retours à la ligne"
+    },
+    "wrapping.wrap.on.typing": {
+      "source": "Wrap on typing",
+      "translation": "Retour à la ligne pendant la saisie"
+    },
+    "wrapping.keep.when.reformatting": {
+      "source": "Keep when reformatting",
+      "translation": "Conserver lors du reformatage"
+    },
+    "wrapping.keep.line.breaks": {
+      "source": "Line breaks",
+      "translation": "Sauts de ligne"
+    },
+    "wrapping.force.braces.do.not.force": {
+      "source": "Do not force",
+      "translation": "Ne pas imposer"
+    },
+    "wrapping.brace.placement": {
+      "source": "Braces placement",
+      "translation": "Position des accolades"
+    },
+    "wrapping.brace.placement.next.line.if.wrapped": {
+      "source": "Next line if wrapped",
+      "translation": "Ligne suivante en cas de retour à la ligne"
+    },
+    "wrapping.brace.placement.next.line.shifted": {
+      "source": "Next line shifted",
+      "translation": "Ligne suivante avec décalage"
+    },
+    "wrapping.align.when.multiline": {
+      "source": "Align when multiline",
+      "translation": "Aligner sur plusieurs lignes"
+    },
+    "wrapping.align.parenthesised.when.multiline": {
+      "source": "Align parenthesised when multiline",
+      "translation": "Aligner les éléments entre parenthèses sur plusieurs lignes"
+    },
+    "wrapping.align.fields.in.columns": {
+      "source": "Align fields in columns",
+      "translation": "Aligner les champs en colonnes"
+    },
+    "wrapping.align.variables.in.columns": {
+      "source": "Align variables in columns",
+      "translation": "Aligner les variables en colonnes"
+    },
+    "wrapping.align.assignments.in.columns": {
+      "source": "Align assignments in columns",
+      "translation": "Aligner les affectations en colonnes"
+    },
+    "wrapping.align.simple.methods.in.columns": {
+      "source": "Align simple methods in columns",
+      "translation": "Aligner les méthodes simples en colonnes"
+    },
+    "wrapping.else.on.new.line": {
+      "source": "'else' on new line",
+      "translation": "« else » sur une nouvelle ligne"
+    },
+    "wrapping.while.on.new.line": {
+      "source": "'while' on new line",
+      "translation": "« while » sur une nouvelle ligne"
+    },
+    "wrapping.catch.on.new.line": {
+      "source": "'catch' on new line",
+      "translation": "« catch » sur une nouvelle ligne"
+    },
+    "wrapping.finally.on.new.line": {
+      "source": "'finally' on new line",
+      "translation": "« finally » sur une nouvelle ligne"
+    },
+    "wrapping.method.parentheses": {
+      "source": "Method parentheses",
+      "translation": "Parenthèses des méthodes"
+    },
+    "wrapping.special.else.if.braces.treatment": {
+      "source": "Special 'else if' treatment",
+      "translation": "Traitement particulier de « else if »"
+    },
+    "wrapping.indent.case.from.switch": {
+      "source": "Indent 'case' branches",
+      "translation": "Indenter les branches « case »"
+    },
+    "wrapping.indent.break.from.case": {
+      "source": "Indent 'break' from 'case'",
+      "translation": "Indenter « break » par rapport à « case »"
+    },
+    "wrapping.force.braces": {
+      "source": "Force braces",
+      "translation": "Imposer les accolades"
+    },
+    "wrapping.chained.method.call.first.on.new.line": {
+      "source": "Wrap first call",
+      "translation": "Premier appel sur une nouvelle ligne"
+    },
+    "wrapping.builder.methods.keep.indents": {
+      "source": "Keep builder methods indents",
+      "translation": "Conserver l’indentation des méthodes de construction"
+    },
+    "wrapping.for.statement": {
+      "source": "'for()' statement",
+      "translation": "Instruction « for() »"
+    },
+    "wrapping.if.statement": {
+      "source": "'if()' statement",
+      "translation": "Instruction « if() »"
+    },
+    "wrapping.while.statement": {
+      "source": "'while()' statement",
+      "translation": "Instruction « while() »"
+    },
+    "wrapping.dowhile.statement": {
+      "source": "'do ... while()' statement",
+      "translation": "Instruction « do ... while() »"
+    },
+    "wrapping.align.throws.keyword": {
+      "source": "Align 'throws' to method start",
+      "translation": "Aligner « throws » sur le début de la méthode"
+    },
+    "wrapping.ternary.operation": {
+      "source": "Ternary operation",
+      "translation": "Opérateur ternaire"
+    },
+    "wrapping.assignment.statement": {
+      "source": "Assignment statement",
+      "translation": "Instruction d’affectation"
+    },
+    "wrapping.array.initializer": {
+      "source": "Array initializer",
+      "translation": "Initialisation de tableau"
+    },
+    "wrapping.modifier.list": {
+      "source": "Modifier list",
+      "translation": "Liste des modificateurs"
+    },
+    "wrapping.take.priority.over.call.chain.wrapping": {
+      "source": "Take priority over call chain wrapping",
+      "translation": "Prioritaire sur les retours à la ligne des appels chaînés"
+    },
+    "wrapping.operation.sign.on.next.line": {
+      "source": "Operation sign on next line",
+      "translation": "Opérateur sur la ligne suivante"
+    },
+    "wrapping.assignment.sign.on.next.line": {
+      "source": "Assignment sign on next line",
+      "translation": "Opérateur d’affectation sur la ligne suivante"
+    },
+    "wrapping.new.line.after.lbrace": {
+      "source": "New line after '{'",
+      "translation": "Nouvelle ligne après « { »"
+    },
+    "wrapping.rbrace.on.new.line": {
+      "source": "Place '}' on new line",
+      "translation": "Placer « } » sur une nouvelle ligne"
+    },
+    "wrapping.after.modifier.list": {
+      "source": "Wrap after modifier list",
+      "translation": "Retour à la ligne après les modificateurs"
+    },
+    "wrapping.fields.annotation": {
+      "source": "Field annotations",
+      "translation": "Annotations des champs"
+    },
+    "wrapping.comments.wrap.at.right.margin": {
+      "source": "Wrap at right margin",
+      "translation": "Retour à la ligne à la marge droite"
+    },
+    "checkbox.keep.when.reformatting.control.statement.in.one.line": {
+      "source": "Control statement in one line",
+      "translation": "Instruction de contrôle sur une seule ligne"
+    },
+    "group.spaces.before.left.brace": {
+      "source": "Before left brace",
+      "translation": "Avant l’accolade ouvrante"
+    },
+    "group.spaces.in.ternary.operator": {
+      "source": "In ternary operator (?:)",
+      "translation": "Dans l’opérateur ternaire (?:)"
+    },
+    "group.spaces.in.type.arguments.block": {
+      "source": "Type arguments",
+      "translation": "Arguments de type"
+    },
+    "checkbox.spaces.class.left.brace": {
+      "source": "Class left brace",
+      "translation": "Accolade ouvrante de classe"
+    },
+    "checkbox.spaces.method.left.brace": {
+      "source": "Method left brace",
+      "translation": "Accolade ouvrante de méthode"
+    },
+    "title.editor": {
+      "source": "General",
+      "translation": "Général"
+    },
+    "configurable.breadcrumbs": {
+      "source": "Breadcrumbs",
+      "translation": "Fil d’Ariane"
+    },
+    "configurable.sticky.lines": {
+      "source": "Sticky Lines",
+      "translation": "Lignes de contexte fixes"
+    },
+    "checkbox.collapse.title.imports": {
+      "source": "Imports",
+      "translation": "Imports"
+    },
+    "label.fold.by.default": {
+      "source": "Fold by default:",
+      "translation": "Replier par défaut :"
+    },
+    "tabs.close.button.placement": {
+      "source": "Close button position",
+      "translation": "Position du bouton de fermeture"
+    },
+    "label.use.custom.soft.wraps.indent": {
+      "source": "Add additional indent:",
+      "translation": "Ajouter une indentation :"
+    },
+    "label.word.move.caret.actions.behavior": {
+      "source": "When moving by words:",
+      "translation": "Lors des déplacements par mot :"
+    },
+    "group.enter.title": {
+      "source": "Enter",
+      "translation": "Entrée"
+    },
+    "editbox.indent.label.indent": {
+      "source": "Label indent:",
+      "translation": "Indentation des étiquettes :"
+    },
+    "checkbox.indent.absolute.label.indent": {
+      "source": "Absolute label indent",
+      "translation": "Indentation absolue des étiquettes"
+    },
+    "option.table.sizing.text": {
+      "source": "Chop down if long.",
+      "translation": "Un élément par ligne si nécessaire."
+    },
+    "title.import.scheme.chooser": {
+      "source": "Import Scheme",
+      "translation": "Importer un schéma"
+    },
+    "label.inherit.attributes": {
+      "source": "Inherit values from:",
+      "translation": "Hériter des valeurs de :"
+    },
+    "settings.code.style.general.tab.title": {
+      "source": "General",
+      "translation": "Général"
+    },
+    "advanced.setting.ide.cycle.scrolling": {
+      "source": "Cyclic scrolling in lists and trees",
+      "translation": "Défilement cyclique dans les listes et arborescences"
+    },
+    "advanced.setting.editor.tab.painting": {
+      "source": "Tab character rendering",
+      "translation": "Affichage des caractères de tabulation"
+    },
+    "advanced.setting.ide.max.recent.files": {
+      "source": "Maximum number of recent files",
+      "translation": "Nombre maximal de fichiers récents"
+    },
+    "advanced.setting.ide.max.recent.locations": {
+      "source": "Maximum number of recent locations",
+      "translation": "Nombre maximal d’emplacements récents"
+    },
+    "advanced.setting.editor.gutter.linenumber.font.size.delta.trailingLabel": {
+      "source": "points",
+      "translation": "points"
+    },
+    "line.numeration.type.relative": {
+      "source": "Relative",
+      "translation": "Relatif"
+    },
+    "settings.editor.animated.caret.ninja": {
+      "source": "Snappy",
+      "translation": "Instantané"
+    },
+    "settings.editor.animated.caret.ease": {
+      "source": "Gliding",
+      "translation": "Fluide"
+    },
+    "title.inline.completion": {
+      "source": "Inline Completion",
+      "translation": "Complétion intégrée"
+    },
+    "settings.editor.font.feature.zero": {
+      "source": "Slashed Zero",
+      "translation": "Zéro barré"
+    },
+    "settings.editor.font.feature.onum": {
+      "source": "Oldstyle Figures",
+      "translation": "Chiffres elzéviriens"
+    },
+    "settings.editor.font.feature.case": {
+      "source": "Case Sensitive Forms",
+      "translation": "Formes adaptées aux capitales"
+    },
+    "settings.editor.font.feature.salt": {
+      "source": "Stylistic Alternates",
+      "translation": "Variantes stylistiques"
+    },
+    "notification.content.available": {
+      "source": "<b>{0} Language is available</b><br>It can be changed later in Settings",
+      "translation": "<b>La langue {0} est disponible</b><br>Vous pourrez la modifier dans les paramètres"
+    },
+    "advanced.setting.editor.undo.transparent.caret.movement": {
+      "source": "Use undo transparent caret movement",
+      "translation": "Ne pas inclure les déplacements du curseur dans l’historique d’annulation"
+    },
+    "advanced.setting.ide.tree.collapse.recursively": {
+      "source": "When collapsing a node, also collapse all expanded nodes under it",
+      "translation": "Lors du repli d’un nœud, replier également tous ses descendants dépliés"
+    },
+    "advanced.setting.editor.comment.line.caret.down": {
+      "source": "Move caret down after Comment with Line Comment action",
+      "translation": "Descendre le curseur après l’ajout d’un commentaire de ligne"
+    },
+    "advanced.setting.editor.keep.pinned.tabs.on.left": {
+      "source": "Keep pinned tabs on the left",
+      "translation": "Conserver les onglets épinglés à gauche"
+    },
+    "advanced.setting.editor.normalize.splits": {
+      "source": "Equalize proportions in nested splits",
+      "translation": "Équilibrer les proportions des panneaux imbriqués"
+    },
+    "group.advanced.settings.tool.windows": {
+      "source": "Tool Windows",
+      "translation": "Fenêtres d’outils"
+    },
+    "group.advanced.settings.editor.tabs": {
+      "source": "Editor Tabs",
+      "translation": "Onglets de l’éditeur"
+    },
+    "group.advanced.settings.search.scopes": {
+      "source": "Search Scopes in Find, Replace, Rename",
+      "translation": "Périmètres de recherche, remplacement et renommage"
+    },
+    "group.advanced.settings.documentation.components": {
+      "source": "Documentation Components",
+      "translation": "Composants de documentation"
+    },
+    "reformat.again.to.remove.custom.line.breaks": {
+      "source": "Reformat again to remove custom line breaks",
+      "translation": "Reformater à nouveau pour supprimer les sauts de ligne personnalisés"
+    },
+    "settings.editor.sticky.lines.disabled.title": {
+      "source": "Sticky lines disabled",
+      "translation": "Lignes de contexte fixes désactivées"
+    },
+    "settings.editor.sticky.lines.disabled.text": {
+      "source": "Enable sticky lines in settings",
+      "translation": "Activer les lignes de contexte fixes dans les paramètres"
+    },
+    "editbox.autopopup.javadoc.in": {
+      "source": "Show the documentation popup in",
+      "translation": "Afficher la documentation après",
+      "review": "manual"
+    },
+    "listbox.members.order.inner.static.classes": {
+      "source": "Static inner classes",
+      "translation": "Classes imbriquées statiques",
+      "review": "manual"
+    },
+    "wrapping.brace.placement.next.line.each.shifted": {
+      "source": "Next line, each shifted",
+      "translation": "Ligne suivante avec décalage de chaque accolade",
+      "review": "manual"
+    },
+    "wrapping.case.statements.on.one.line": {
+      "source": "Each 'case' on a separate line",
+      "translation": "Chaque « case » sur une ligne distincte",
+      "review": "manual"
+    },
+    "wrapping.try.resources": {
+      "source": "'try-with-resources'",
+      "translation": "« try-with-resources »",
+      "review": "manual"
+    },
+    "wrapping.extends.implements.list": {
+      "source": "Extends/implements/permits list",
+      "translation": "Liste extends/implements/permits",
+      "review": "manual"
+    },
+    "wrapping.extends.implements.keyword": {
+      "source": "Extends/implements/permits keyword",
+      "translation": "Mots-clés extends/implements/permits",
+      "review": "manual"
+    },
+    "wrapping.throws.list": {
+      "source": "Throws list",
+      "translation": "Liste des exceptions throws",
+      "review": "manual"
+    },
+    "wrapping.throws.keyword": {
+      "source": "Throws keyword",
+      "translation": "Mot-clé throws",
+      "review": "manual"
+    },
+    "wrapping.assert.statement": {
+      "source": "Assert statement",
+      "translation": "Instruction assert",
+      "review": "manual"
+    },
+    "wrapping.quest.and.colon.signs.on.next.line": {
+      "source": "'?' and ':' signs on next line",
+      "translation": "« ? » et « : » sur la ligne suivante",
+      "review": "manual"
+    },
+    "checkbox.allow.placement.of.caret.label": {
+      "source": "Allow caret placement:",
+      "translation": "Autoriser le placement du curseur :",
+      "review": "manual"
+    },
+    "label.word.move.caret.actions.behavior.at.line.break": {
+      "source": "Upon line break:",
+      "translation": "Aux sauts de ligne :",
+      "review": "manual"
+    },
+    "ml.completion.advise.full.line.name": {
+      "source": "Full Line Code Completion",
+      "translation": "Complétion de lignes de code entières",
+      "review": "manual"
+    },
+    "editor.options.prefer.scrolling.editor.canvas.to.keep.caret.line.centered": {
+      "source": "Keep the caret in place, scroll editor canvas",
+      "translation": "Garder le curseur en place et faire défiler le contenu de l’éditeur",
+      "review": "manual"
+    },
+    "editor.options.prefer.moving.caret.line.to.minimize.editor.scrolling": {
+      "source": "Move caret, minimize editor scrolling",
+      "translation": "Déplacer le curseur pour limiter le défilement de l’éditeur",
+      "review": "manual"
+    },
+    "group.caret.movement": {
+      "source": "Caret Movement",
+      "translation": "Mouvement du curseur",
+      "review": "terminology"
+    },
+    "group.brace.highlighting": {
+      "source": "Highlight on Caret Movement",
+      "translation": "Mettre en évidence le mouvement du curseur",
+      "review": "terminology"
+    },
+    "editor.options.prefer.scrolling.editor.label": {
+      "source": "Caret behavior:",
+      "translation": "Comportement du curseur :",
+      "review": "terminology"
+    }
+  },
+  "messages/PhpBundle.properties": {
+    "action.PhpCSFixerAddToIgnored.description": {
+      "source": "Add to PHP CS Fixer ignore list",
+      "translation": "Ajouter à la liste d’exclusion de PHP CS Fixer",
+      "review": "manual"
+    },
+    "action.ComposerDiagnoseAction.text": {
+      "source": "Diagnose",
+      "translation": "Diagnostiquer"
+    },
+    "action.ComposerLicensesAction.text": {
+      "source": "List Licenses",
+      "translation": "Lister les licences"
+    },
+    "action.ComposerDumpAutoloadAction.text": {
+      "source": "Dump Autoloader…",
+      "translation": "Régénérer l’autoloader…"
+    },
+    "action.ComposerUpdateAction.text": {
+      "source": "Update",
+      "translation": "Mettre à jour"
+    },
+    "action.PhpDebuggerCopyType.text": {
+      "source": "Copy Type",
+      "translation": "Copier le type"
+    },
+    "action.XdebugDetachFromSessionAction.text": {
+      "source": "Detach from Session",
+      "translation": "Se détacher de la session"
+    },
+    "action.PhpExtractClassAction.text": {
+      "source": "Extract Class…",
+      "translation": "Extraire une classe…"
+    },
+    "action.PhpNewTest.text": {
+      "source": "PHP Test",
+      "translation": "Test PHP"
+    },
+    "group.PhpNewTestGroup.text": {
+      "source": "PHP Test",
+      "translation": "Test PHP"
+    },
+    "action.PhpUnitGenerateTestMethod.text": {
+      "source": "Test Method",
+      "translation": "Méthode de test"
+    },
+    "action.PhpGeneratePhpDocBlocks.text": {
+      "source": "PHPDoc Blocks…",
+      "translation": "Blocs PHPDoc…"
+    },
+    "action.PhpGenerateSetters.text": {
+      "source": "Setters…",
+      "translation": "Mutateurs (setters)…"
+    },
+    "action.PhpGenerateGettersAndSetters.text": {
+      "source": "Getters and Setters…",
+      "translation": "Accesseurs et mutateurs…"
+    },
+    "action.PhpGenerateGetters.text": {
+      "source": "Getters…",
+      "translation": "Accesseurs (getters)…"
+    },
+    "action.PhpGeneratePropertyHooks.text": {
+      "source": "Property Hooks…",
+      "translation": "Hooks de propriétés…"
+    },
+    "action.PhpResetTestFrameworkSyncAction.text": {
+      "source": "Reset Test Framework Configurations Sync with Composer",
+      "translation": "Réinitialiser la synchronisation des configurations de test avec Composer"
+    },
+    "inspection.duplicate.array.keys.display.name": {
+      "source": "Duplicate array keys",
+      "translation": "Clés de tableau dupliquées"
+    },
+    "framework.composer.add.dependency.update.button": {
+      "source": "Update",
+      "translation": "Mettre à jour"
+    },
+    "action.MessDetectorAddToIgnored.text": {
+      "source": "Add to PHPMD Ignore List",
+      "translation": "Ajouter à la liste d’exclusion de PHPMD",
+      "review": "manual"
+    },
+    "action.MessDetectorAddToIgnored.description": {
+      "source": "Add to PHP Mess Detector ignore list",
+      "translation": "Ajouter à la liste d’exclusion de PHP Mess Detector",
+      "review": "manual"
+    },
+    "action.PhpCSFixerAddToIgnored.text": {
+      "source": "Add to PHP CS Fixer Ignore List",
+      "translation": "Ajouter à la liste d’exclusion de PHP CS Fixer",
+      "review": "manual"
+    },
+    "action.PhpCSAddToIgnored.text": {
+      "source": "Add to PHPCS Ignore List",
+      "translation": "Ajouter à la liste d’exclusion de PHPCS",
+      "review": "manual"
+    },
+    "action.PhpCSAddToIgnored.description": {
+      "source": "Add to PHP_CodeSniffer Ignore List",
+      "translation": "Ajouter à la liste d’exclusion de PHP_CodeSniffer",
+      "review": "manual"
+    },
+    "group.PHPQualityToolsAddToIgnoredList.text": {
+      "source": "Add to Ignore List of…",
+      "translation": "Ajouter à la liste d’exclusion de…",
+      "review": "manual"
+    },
+    "action.PhpStanAddToIgnored.text": {
+      "source": "Add to PHPStan Ignore List",
+      "translation": "Ajouter à la liste d’exclusion de PHPStan",
+      "review": "manual"
+    },
+    "action.PhpStanAddToIgnored.description": {
+      "source": "Add to PHPStan Ignore List",
+      "translation": "Ajouter à la liste d’exclusion de PHPStan",
+      "review": "manual"
+    },
+    "action.com.jetbrains.php.composer.ComposerInitSupportAction.text": {
+      "source": "Init Composer…",
+      "translation": "Initialiser Composer…",
+      "review": "manual"
+    },
+    "action.com.jetbrains.php.composer.ComposerInitSupportAction.description": {
+      "source": "Init Composer",
+      "translation": "Initialiser Composer",
+      "review": "manual"
+    },
+    "action.ComposerShowLogAction.description": {
+      "source": "Show log of composer actions with this composer.json",
+      "translation": "Afficher le journal des actions Composer associées à ce fichier composer.json",
+      "review": "manual"
+    },
+    "action.ComposerSelfUpdateAction.description": {
+      "source": "Updates Composer itself to the latest version",
+      "translation": "Mettre à jour Composer vers la dernière version",
+      "review": "manual"
+    },
+    "action.ComposerDiagnoseAction.description": {
+      "source": "Check for common Composer problems",
+      "translation": "Rechercher les problèmes courants de Composer",
+      "review": "manual"
+    },
+    "action.PhpUnitGenerateTearDownMethod.text": {
+      "source": "TearDown Method",
+      "translation": "Méthode tearDown",
+      "review": "manual"
+    },
+    "action.PhpUnitGenerateTearDownMethod.description": {
+      "source": "Creates PHPUnit tearDown method",
+      "translation": "Créer une méthode tearDown PHPUnit",
+      "review": "manual"
+    },
+    "action.PhpUnitGenerateSetUpMethod.text": {
+      "source": "SetUp Method",
+      "translation": "Méthode setUp",
+      "review": "manual"
+    },
+    "action.PhpUnitGenerateSetUpMethod.description": {
+      "source": "Creates PHPUnit setUp method",
+      "translation": "Créer une méthode setUp PHPUnit",
+      "review": "manual"
+    },
+    "action.PhpUnitGenerateTestMethod.description": {
+      "source": "Creates PHPUnit test method",
+      "translation": "Créer une méthode de test PHPUnit",
+      "review": "manual"
+    },
+    "action.PhpGenerateSetters.description": {
+      "source": "Create setters for private class fields.",
+      "translation": "Créer des mutateurs pour les champs privés de la classe.",
+      "review": "manual"
+    },
+    "action.PhpGenerateGetters.description": {
+      "source": "Create getters for private class fields.",
+      "translation": "Créer des accesseurs pour les champs privés de la classe.",
+      "review": "manual"
+    },
+    "action.PhpGenerateGettersAndSetters.description": {
+      "source": "Create getters and setters for private class fields.",
+      "translation": "Créer des accesseurs et des mutateurs pour les champs privés de la classe.",
+      "review": "manual"
+    },
+    "action.PhpGeneratePropertyHooks.description": {
+      "source": "Create property hooks for non-abstract class fields.",
+      "translation": "Créer des hooks de propriétés pour les champs non abstraits de la classe.",
+      "review": "manual"
+    },
+    "quickfix.import.class.popup.title": {
+      "source": "Class to import",
+      "translation": "Classe à importer",
+      "review": "manual"
+    },
+    "quickfix.import.constant.popup.title": {
+      "source": "Constant to import",
+      "translation": "Constante à importer",
+      "review": "manual"
+    },
+    "intention.add.constructor.parameters.fields.chooser.dialog.title": {
+      "source": "Choose Properties To Initialize In Constructor",
+      "translation": "Choisir les propriétés à initialiser dans le constructeur",
+      "review": "manual"
+    },
+    "inspection.language.level.quick.fix.switch.language.level.in.composer.manually.0": {
+      "source": "Switch to PHP {0} language level in composer.json manually",
+      "translation": "Définir manuellement la version du langage PHP sur {0} dans composer.json",
+      "review": "manual"
+    },
+    "inspection.language.level.quick.fix.switch.language.level.in.composer.0": {
+      "source": "Switch to PHP {0} language level in composer.json",
+      "translation": "Définir la version du langage PHP sur {0} dans composer.json",
+      "review": "manual"
+    },
+    "actions.detect.common.setting.from.composer.suggest.title": {
+      "source": "Sync settings with composer?",
+      "translation": "Synchroniser les paramètres avec Composer ?",
+      "review": "manual"
+    },
+    "actions.detect.common.settings.composer.sync.state.title": {
+      "source": "Sync with composer.json was {0}",
+      "translation": "La synchronisation avec composer.json a été {0}",
+      "review": "manual"
+    },
+    "action.detect.settings.sync.turned.on.title": {
+      "source": "Synchronized with composer.json",
+      "translation": "Synchronisation avec composer.json activée",
+      "review": "manual"
+    },
+    "action.detect.composer.json.not.found.title": {
+      "source": "composer.json is not found",
+      "translation": "Fichier composer.json introuvable",
+      "review": "manual"
+    },
+    "action.detect.composer.json.not.found": {
+      "source": "composer.json is not found at path {0}",
+      "translation": "Fichier composer.json introuvable à l’emplacement {0}",
+      "review": "manual"
+    },
+    "PhpUnitConfigurableForm.use.custom.loader": {
+      "source": "Use Composer autoloader",
+      "translation": "Utiliser l’autoloader de Composer",
+      "review": "manual"
+    },
+    "framework.composer.packages.were.changed.0.test.config.popup": {
+      "source": "{0} config was updated according to composer.json",
+      "translation": "La configuration {0} a été mise à jour d’après composer.json",
+      "review": "manual"
+    },
+    "framework.composer.path.dialog.path.to.composer": {
+      "source": "Path to Composer",
+      "translation": "Chemin vers Composer",
+      "review": "manual"
+    },
+    "framework.composer.path.dialog.path.to.composer.json": {
+      "source": "Path to composer.json",
+      "translation": "Chemin vers composer.json",
+      "review": "manual"
+    },
+    "framework.composer.path.dialog.specify.composer.phar": {
+      "source": "Specify Composer phar:",
+      "translation": "Indiquer le fichier PHAR de Composer :",
+      "review": "manual"
+    },
+    "framework.composer.path.dialog.specify.composer.executable": {
+      "source": "Specify Composer executable:",
+      "translation": "Indiquer l’exécutable Composer :",
+      "review": "manual"
+    },
+    "framework.composer.init.dialog.title.composer.settings": {
+      "source": "Composer Settings",
+      "translation": "Paramètres de Composer",
+      "review": "manual"
+    },
+    "framework.composer.path.form.empty.path.to.composer.phar": {
+      "source": "Empty path to composer.phar",
+      "translation": "Le chemin vers composer.phar est vide",
+      "review": "manual"
+    },
+    "framework.composer.path.form.empty.path.to.composer.executable": {
+      "source": "Empty path to composer executable",
+      "translation": "Le chemin vers l’exécutable composer est vide",
+      "review": "manual"
+    },
+    "framework.composer.project.generator.name": {
+      "source": "Composer Package Project",
+      "translation": "Projet de paquet Composer",
+      "review": "manual"
+    },
+    "framework.composer.project.generation.error.title": {
+      "source": "Failed to create Composer project",
+      "translation": "Impossible de créer le projet Composer",
+      "review": "manual"
+    },
+    "framework.composer.project.generator.notification.content.failed.to.find.composer.json": {
+      "source": "Failed to find composer.json in project root",
+      "translation": "Fichier composer.json introuvable à la racine du projet",
+      "review": "manual"
+    },
+    "framework.composer.path.form.empty.path.to.composer.json": {
+      "source": "Empty path to composer.json",
+      "translation": "Le chemin vers composer.json est vide",
+      "review": "manual"
+    },
+    "framework.composer.vendors.library.name": {
+      "source": "Composer Vendors",
+      "translation": "Dépendances Composer",
+      "review": "manual"
+    },
+    "framework.composer.selected.file.is.not.composer.json": {
+      "source": "Selected file is not composer.json",
+      "translation": "Le fichier sélectionné n’est pas un fichier composer.json",
+      "review": "manual"
+    },
+    "framework.composer.notification.title.init.composer": {
+      "source": "Init composer",
+      "translation": "Initialiser Composer",
+      "review": "manual"
+    },
+    "framework.composer.packages.were.moved.to.0.php.include.paths.popup": {
+      "source": "Composer packages were moved from Composer External Libraries to PHP include paths.",
+      "translation": "Les paquets Composer ont été déplacés des bibliothèques externes Composer vers les chemins d’inclusion PHP.",
+      "review": "manual"
+    },
+    "framework.composer.packages.were.changed.0.php.include.paths.popup": {
+      "source": "Composer packages were changed, so PHP include paths were updated.",
+      "translation": "Les paquets Composer ont changé ; les chemins d’inclusion PHP ont été mis à jour.",
+      "review": "manual"
+    },
+    "framework.composer.packages.were.removed.0.php.include.paths.popup": {
+      "source": "Composer packages were removed from PHP include paths.",
+      "translation": "Les paquets Composer ont été retirés des chemins d’inclusion PHP.",
+      "review": "manual"
+    },
+    "framework.composer.packages.were.added.0.php.include.paths.popup": {
+      "source": "Composer packages were added to PHP include paths.",
+      "translation": "Les paquets Composer ont été ajoutés aux chemins d’inclusion PHP.",
+      "review": "manual"
+    },
+    "framework.composer.default.composer.interpreter.name": {
+      "source": "Interpreter for Composer",
+      "translation": "Interpréteur pour Composer",
+      "review": "manual"
+    },
+    "framework.composer.initialize.popup": {
+      "source": "Composer configuration file {0} found. Project settings are synchronized with it.",
+      "translation": "Fichier de configuration Composer {0} trouvé. Les paramètres du projet sont synchronisés avec ce fichier.",
+      "review": "manual"
+    },
+    "framework.composer.initialize.popup.multi.composer": {
+      "source": "{0} composer configuration files found. Project settings are synchronized with them.",
+      "translation": "{0} fichiers de configuration Composer trouvés. Les paramètres du projet sont synchronisés avec ces fichiers.",
+      "review": "manual"
+    },
+    "framework.composer.self.update.task.title": {
+      "source": "Updating Composer",
+      "translation": "Mise à jour de Composer",
+      "review": "manual"
+    },
+    "framework.composer.script.run.configuration.name": {
+      "source": "Composer Script",
+      "translation": "Script Composer",
+      "review": "manual"
+    },
+    "framework.composer.script.run.configuration.description": {
+      "source": "Composer script run configuration",
+      "translation": "Configuration d’exécution d’un script Composer",
+      "review": "manual"
+    },
+    "framework.composer.run.script.missing": {
+      "source": "Composer script is not specified",
+      "translation": "Aucun script Composer n’est indiqué",
+      "review": "manual"
+    },
+    "show.composer.settings.action.name": {
+      "source": "Show Composer Settings",
+      "translation": "Afficher les paramètres de Composer",
+      "review": "manual"
+    },
+    "composer.require.package.task.title": {
+      "source": "Require Composer Package",
+      "translation": "Ajouter un paquet Composer",
+      "review": "manual"
+    },
+    "composer.json.exec.not.configured": {
+      "source": "Custom repos can't be loaded. Path to Composer executable is not configured",
+      "translation": "Impossible de charger les dépôts personnalisés : le chemin vers l’exécutable Composer n’est pas configuré",
+      "review": "manual"
+    },
+    "show.log.of.composer.related.actions": {
+      "source": "Show log of Composer-related actions",
+      "translation": "Afficher le journal des actions liées à Composer",
+      "review": "manual"
+    },
+    "action.NewComposerJsonFile.text": {
+      "source": "composer.json File",
+      "translation": "Fichier composer.json",
+      "review": "manual"
+    },
+    "composer": {
+      "source": "composer",
+      "translation": "composer",
+      "review": "manual"
+    },
+    "tooltip.configured.php.language.level.widget.composer": {
+      "source": "PHP language level configured via Composer",
+      "translation": "Version du langage PHP configurée via Composer",
+      "review": "manual"
+    },
+    "frameworl.composer.show.quick.actions": {
+      "source": "Show composer.json top panel with quick actions",
+      "translation": "Afficher le panneau supérieur de composer.json avec les actions rapides",
+      "review": "manual"
+    },
+    "notification.content.language.level.synchronisation.with.composer.was.disabled": {
+      "source": "Language level synchronization with composer.json was disabled",
+      "translation": "La synchronisation de la version du langage avec composer.json a été désactivée",
+      "review": "manual"
+    },
+    "intention.family.name.move.from.to.composer.json.section": {
+      "source": "Move ''{0}'' from ''{1}'' to ''{2}'' composer.json section",
+      "translation": "Déplacer « {0} » de la section « {1} » vers la section « {2} » de composer.json",
+      "review": "manual"
+    },
+    "dialog.message.execution.composer.in.untrusted.project.prohibited": {
+      "source": "Execution of Composer in untrusted projects is prohibited",
+      "translation": "L’exécution de Composer est interdite dans les projets non approuvés",
+      "review": "manual"
+    },
+    "notification.group.composer.language.level": {
+      "source": "Composer language level synchronisation disabled",
+      "translation": "Synchronisation de la version du langage via Composer désactivée",
+      "review": "manual"
+    },
+    "notification.group.composer.install": {
+      "source": "Composer 'install' command suggested",
+      "translation": "Commande « install » de Composer suggérée",
+      "review": "manual"
+    },
+    "notification.content.composer.executable.was.automatically.set.to.global.composer": {
+      "source": "Composer executable was automatically set to global 'composer'",
+      "translation": "L’exécutable Composer a été automatiquement défini sur la commande globale « composer »",
+      "review": "manual"
+    },
+    "php.project.configurable.composer.duplicate.configurations": {
+      "source": "Configuration with the same composer.json already exists",
+      "translation": "Une configuration utilisant le même fichier composer.json existe déjà",
+      "review": "manual"
+    },
+    "dialog.message.unable.to.create.configurations.with.same.executable.path": {
+      "source": "Conflicting configurations with the same interpreter for the same Composer project: {0}",
+      "translation": "Configurations en conflit utilisant le même interpréteur pour le même projet Composer : {0}",
+      "review": "manual"
+    },
+    "change.signature.error.wrong.caret.position": {
+      "source": "The caret should be positioned at the name of the function to be refactored.",
+      "translation": "Le curseur doit être placé au nom de la fonction à refactorer.",
+      "review": "terminology"
+    },
+    "refactoring.extract.interface.invalid.caret.location": {
+      "source": "The caret should be positioned at the class name to be refactored.",
+      "translation": "Le curseur doit être placé au nom de la classe à refactorer.",
+      "review": "terminology"
+    },
+    "PhpUnitConfigurableForm.custom.loader.is.directory": {
+      "source": "Autoloader should not be a directory, for default composer config set path to \"vendor/autoload.php\"",
+      "translation": "Autoloader ne devrait pas être un répertoire, pour la configuration par défaut de Composer défini chemin vers \"vendor/autoload.php\"",
+      "review": "terminology"
+    },
+    "inspection.missing.ext.composer.json": {
+      "source": "''{0}'' is missing in composer.json",
+      "translation": "''{0}'' est manquant dans composer.json",
+      "review": "terminology"
+    },
+    "add.to.composer.json.quick.fix": {
+      "source": "Add ''{0}'' to composer.json",
+      "translation": "Ajouter ''{0}'' à composer.json",
+      "review": "terminology"
+    },
+    "framework.composer.run.path.to.composer.json": {
+      "source": "Path to composer.json:",
+      "translation": "Chemin vers composer.json:",
+      "review": "terminology"
+    },
+    "composer.update.composer.task.title": {
+      "source": "Update Composer",
+      "translation": "Mettre à jour Composer",
+      "review": "terminology"
+    },
+    "composer.update.composer.packages.task.title": {
+      "source": "Update Composer Packages",
+      "translation": "Mettre à jour les paquets Composer",
+      "review": "terminology"
+    },
+    "composer.label.phar": {
+      "source": "composer.phar",
+      "translation": "composer.phar",
+      "review": "terminology"
+    },
+    "composer.label.path.to.composer.json": {
+      "source": "Path to &composer.json:",
+      "translation": "Chemin vers composer.json:",
+      "review": "terminology"
+    },
+    "inspection.php.not.installed.packages.inspection.display.name": {
+      "source": "Non-installed Composer packages",
+      "translation": "Paquets Composer non installés",
+      "review": "terminology"
+    },
+    "inspection.php.composer.extension.stubs.inspection.display.name": {
+      "source": "Extension is missing in composer.json",
+      "translation": "L'extension est manquante dans composer.json",
+      "review": "terminology"
+    },
+    "can.not.run.command.composer.execution.plugin.was.unloaded": {
+      "source": "Can not run command: Composer execution plugin was unloaded",
+      "translation": "Impossible d'exécuter la commande : Le plugin d'exécution de Composer a été déchargé",
+      "review": "terminology"
+    },
+    "select.composer.phar.and.provide.the.full.path.to.it.or.select.download.composer.stable.phar.from.getcomposer.org": {
+      "source": "Select 'composer.phar' and provide the full path to it or select 'Download composer-stable.phar from getcomposer.org'.",
+      "translation": "Sélectionnez 'composer.phar' et fournissez-lui le chemin complet ou sélectionnez 'Télécharger Composer-stable.phar à partir de getcomposer.org'.",
+      "review": "terminology"
+    },
+    "select.composer.phar.and.provide.the.full.path.to.it.or.select.download.composer.stable.phar.from.getcomposer.org1": {
+      "source": "Select 'composer.phar' and provide the full path to it or select 'Download composer-stable.phar from getcomposer.org'.",
+      "translation": "Sélectionnez 'composer.phar' et fournissez-lui le chemin complet ou sélectionnez 'Télécharger Composer-stable.phar à partir de getcomposer.org'.",
+      "review": "terminology"
+    },
+    "untrusted.composer.dialog.text": {
+      "source": "Installing or updating dependencies, or running Composer commands may execute potentially malicious code.\n\nIf you do not trust the source, stay in Safe Mode.",
+      "translation": "Installer ou mettre à jour des dépendances, ou exécuter des commandes Composer peut exécuter un code potentiellement malveillant.\n\nSi vous ne faites pas confiance à la source, restez en mode sécurité.",
+      "review": "terminology"
+    }
+  },
+  "messages/DatabaseBundle.properties": {
+    "property.AuthType.title": {
+      "source": "Auth Type",
+      "translation": "Type d’authentification"
+    },
+    "property.AutoIncrement.title": {
+      "source": "Auto Increment",
+      "translation": "Incrémentation automatique"
+    },
+    "property.BaseTableName.title": {
+      "source": "Base Table Name",
+      "translation": "Nom de la table de base"
+    },
+    "property.BucketType.title": {
+      "source": "Bucket Type",
+      "translation": "Type de bucket"
+    },
+    "property.BucketsNum.title": {
+      "source": "Buckets Num",
+      "translation": "Nombre de buckets"
+    },
+    "property.CacheSize.title": {
+      "source": "Cache Size",
+      "translation": "Taille du cache"
+    },
+    "property.CallRoutine.title": {
+      "source": "Call Routine",
+      "translation": "Appeler une routine"
+    },
+    "property.Charset.title": {
+      "source": "Charset",
+      "translation": "Jeu de caractères"
+    },
+    "property.Cluster.title": {
+      "source": "Cluster",
+      "translation": "Cluster"
+    },
+    "property.ClusterBy.title": {
+      "source": "Cluster By",
+      "translation": "Regrouper par"
+    },
+    "property.ClusterColNames.title": {
+      "source": "Cluster Col Names",
+      "translation": "Colonnes de regroupement"
+    },
+    "property.ColNames.title": {
+      "source": "Col Names",
+      "translation": "Noms des colonnes"
+    },
+    "property.Columnstore.title": {
+      "source": "Columnstore",
+      "translation": "Stockage en colonnes"
+    },
+    "property.CommuteOperator.title": {
+      "source": "Commute Operator",
+      "translation": "Opérateur commutateur"
+    },
+    "property.Condition.title": {
+      "source": "Condition",
+      "translation": "Condition"
+    },
+    "property.CreateLogin.title": {
+      "source": "Create Login",
+      "translation": "Créer un compte de connexion"
+    },
+    "TypeDescriptor.param.cluster": {
+      "source": "Cluster",
+      "translation": "Cluster"
+    },
+    "message.driver.class.not.found.text": {
+      "source": "Driver class ''{0}'' not found",
+      "translation": "Classe du pilote « {0} » introuvable"
+    },
+    "message.driver.class.not.instantiable": {
+      "source": "Driver class ''{0}'' not instantiable",
+      "translation": "Impossible d’instancier la classe du pilote « {0} »"
+    },
+    "message.driver.class.wrong.version": {
+      "source": "Driver class ''{0}'' is incompatible with current JRE",
+      "translation": "La classe du pilote « {0} » est incompatible avec le JRE actuel"
+    },
+    "message.text.position.prefix": {
+      "source": "Position {0}",
+      "translation": "Position {0}"
+    },
+    "confirmation.text.remove.data.source.1b": {
+      "source": "The data source <b>{0}</b> will be deleted.",
+      "translation": "La source de données <b>{0}</b> sera supprimée."
+    },
+    "dialog.title.query.history": {
+      "source": "{0} Query History",
+      "translation": "Historique des requêtes de {0}"
+    },
+    "message.text.error.unexpected.update.count": {
+      "source": "Unexpected update count received",
+      "translation": "Nombre de lignes modifiées inattendu",
+      "review": "manual"
+    },
+    "message.text.error.failed.to.rollback.to.a.savepoint": {
+      "source": "Failed to roll back to a savepoint.",
+      "translation": "Impossible de revenir au point de sauvegarde.",
+      "review": "manual"
+    },
+    "property.BypassRls.title": {
+      "source": "Bypass RLS",
+      "translation": "Contourner la sécurité RLS",
+      "review": "manual"
+    },
+    "property.ColumnCollations.title": {
+      "source": "Column Collation",
+      "translation": "Collation de colonne",
+      "review": "manual"
+    },
+    "property.CreateDb.title": {
+      "source": "Create DB",
+      "translation": "Créer une base de données",
+      "review": "manual"
+    },
+    "switch.to.existing.a.href.action1": {
+      "source": "Switch to existing <a href=\"$ACTION1\">{0}</a> driver",
+      "translation": "Utiliser le pilote existant <a href=\"$ACTION1\">{0}</a>",
+      "review": "manual"
+    },
+    "notification.content.href.action0.update.to.driver": {
+      "source": "<a href=\"$ACTION0\">Update</a> to driver {0}",
+      "translation": "<a href=\"$ACTION0\">Mettre à jour</a> vers le pilote {0}",
+      "review": "manual"
+    },
+    "notification.content.href.action0.switch.to.driver": {
+      "source": "<a href=\"$ACTION0\">Switch</a> to driver {0}",
+      "translation": "<a href=\"$ACTION0\">Passer</a> au pilote {0}",
+      "review": "manual"
+    },
+    "notification.content.update.href.action1": {
+      "source": "Update <a href=\"$ACTION1\">{0}</a> driver to {1}",
+      "translation": "Mettre à jour le pilote <a href=\"$ACTION1\">{0}</a> vers {1}",
+      "review": "manual"
+    },
+    "notification.content.switch.to.existing.href.action1": {
+      "source": "Switch to existing <a href=\"$ACTION1\">{0}</a> driver {1}",
+      "translation": "Utiliser le pilote existant <a href=\"$ACTION1\">{0}</a> {1}",
+      "review": "manual"
+    },
+    "notification.content.driver.does.not.support": {
+      "source": "Driver does not support {0} {1}",
+      "translation": "Le pilote ne prend pas en charge {0} {1}",
+      "review": "manual"
+    },
+    "driver.log.extra.path": {
+      "source": "Driver log extra path: ",
+      "translation": "Chemin supplémentaire du journal du pilote :",
+      "review": "manual"
+    },
+    "new.data.source.driver": {
+      "source": "&Driver:",
+      "translation": "Pilote :",
+      "review": "terminology"
+    },
+    "DataSourceConfigurable.invalid.provided": {
+      "source": "Unknown provided driver",
+      "translation": "Pilote inconnu fourni",
+      "review": "terminology"
+    },
+    "DataSourceConfigurable.drivers.not.transferred": {
+      "source": "Driver files are not transferred",
+      "translation": "Les fichiers du pilote ne sont pas transférés",
+      "review": "terminology"
+    },
+    "data.source.editor.driver.label": {
+      "source": "Driver:",
+      "translation": "Pilote :",
+      "review": "terminology"
+    },
+    "database.driver.settings.classpath.provided.driver": {
+      "source": "Provided Driver",
+      "translation": "Pilote fourni",
+      "review": "terminology"
+    },
+    "BestDriverValidator.title": {
+      "source": "Better driver",
+      "translation": "Meilleur pilote",
+      "review": "terminology"
+    },
+    "dialog.title.DatabaseConfigEditor.driver.usages": {
+      "source": "Driver Usages",
+      "translation": "Utilisations du pilote",
+      "review": "terminology"
+    },
+    "DatabaseErrorHandler.change.driver.class": {
+      "source": "Change driver class",
+      "translation": "Changer de classe de pilote",
+      "review": "terminology"
+    },
+    "dataSource.quickInfo.driverPhrase": {
+      "source": "Driver: {0} (ver. {1}, JDBC{2})",
+      "translation": "Pilote : {0} (ver. {1}, JDBC{2})",
+      "review": "terminology"
+    },
+    "notification.title.incompatible.driver": {
+      "source": "Incompatible driver",
+      "translation": "Pilote incompatible",
+      "review": "terminology"
+    },
+    "dialog.message.no.driver.class.for": {
+      "source": "No driver class for: {0}",
+      "translation": "Pas de classe de pilote pour: {0}",
+      "review": "terminology"
+    },
+    "driver.log.level": {
+      "source": "Driver log Level",
+      "translation": "Niveau du journal du pilote",
+      "review": "terminology"
+    },
+    "fallback.defaultOptionLabel.withInheritedValue": {
+      "source": "Driver default ({0})",
+      "translation": "Par défaut du pilote ({0})",
+      "review": "terminology"
+    }
+  },
+  "messages/GitBundle.properties": {
+    "abort.operation.progress.title": {
+      "source": "Aborting {0} Process",
+      "translation": "Annulation de l’opération {0}"
+    },
+    "abort.operation.dialog.title": {
+      "source": "Abort {0}",
+      "translation": "Annuler {0}"
+    },
+    "apply.changes.unresolved.conflicts.notification.abort.action.text": {
+      "source": "Abort {0}",
+      "translation": "Annuler {0}"
+    },
+    "apply.changes.unresolved.conflicts.text": {
+      "source": "There are unresolved conflicts in the working tree.",
+      "translation": "Des conflits non résolus subsistent dans l’arborescence de travail."
+    },
+    "apply.changes.resolving.conflicts.progress.title": {
+      "source": "Resolving conflicts…",
+      "translation": "Résolution des conflits…"
+    },
+    "apply.conflict.dialog.description.label.text": {
+      "source": "Conflicts during {0} of commit {1} made by {2}{3}",
+      "translation": "Conflits pendant {0} du commit {1} créé par {2}{3}"
+    },
+    "commit.action.commit.and.rebase.text": {
+      "source": "Commit and Rebase…",
+      "translation": "Commit et rebase…"
+    },
+    "login.dialog.label.login.to.url": {
+      "source": "Log In to {0}",
+      "translation": "Se connecter à {0}"
+    },
+    "login.dialog.button.login": {
+      "source": "Log In",
+      "translation": "Se connecter"
+    },
+    "error.list.title": {
+      "source": "{0} Error:",
+      "translation": "Erreur {0} :"
+    },
+    "merge.commit.message.label": {
+      "source": "Commit message:",
+      "translation": "Message de commit :"
+    },
+    "paths.affected.title": {
+      "source": "Paths affected in commit {0}",
+      "translation": "Chemins concernés par le commit {0}"
+    },
+    "pulling.title": {
+      "source": "Pulling changes from {0}",
+      "translation": "Récupération des modifications depuis {0}"
+    },
+    "pull.options.modify.popup.title": {
+      "source": "Add Pull Options",
+      "translation": "Ajouter des options de pull"
+    },
+    "pull.dialog.with.branch.title": {
+      "source": "Pull to {0}",
+      "translation": "Pull vers {0}"
+    },
+    "rebase.abort.and.rollback.dialog.no.button.text": {
+      "source": "Abort Only",
+      "translation": "Annuler uniquement"
+    },
+    "rebase.abort.and.rollback.dialog.yes.button.text": {
+      "source": "Abort and Rollback",
+      "translation": "Annuler et rétablir l’état précédent"
+    },
+    "rebase.abort.dialog.ok.button.text": {
+      "source": "Abort",
+      "translation": "Annuler"
+    },
+    "rebase.abort.dialog.title": {
+      "source": "Abort Rebase",
+      "translation": "Annuler le rebase"
+    },
+    "rebase.abort.notification.failed.title": {
+      "source": "Abort rebase failed",
+      "translation": "Échec de l’annulation du rebase"
+    },
+    "rebase.abort.notification.warning.rollback.failed.title": {
+      "source": "Rebase rollback failed",
+      "translation": "Échec du retour à l’état précédant le rebase"
+    },
+    "rebase.abort.rollback.successful.rebase.dialog.ok.button.text": {
+      "source": "Rollback",
+      "translation": "Rétablir l’état précédent"
+    },
+    "rebase.confirmation.dialog.published.commits.button.rebase.text": {
+      "source": "Rebase Anyway",
+      "translation": "Effectuer le rebase quand même"
+    },
+    "rebase.confirmation.dialog.published.commits.title": {
+      "source": "Rebasing Published Commit",
+      "translation": "Rebase d’un commit publié",
+      "review": "manual"
+    },
+    "rebase.conflict.diff.dialog.left.title": {
+      "source": "Rebasing {0} from {1}",
+      "translation": "Rebase de {0} depuis {1}"
+    },
+    "rebase.conflict.diff.dialog.right.simple.title": {
+      "source": "Already rebased commits",
+      "translation": "Commits déjà rebasés"
+    },
+    "rebase.conflict.diff.dialog.right.with.branch.title": {
+      "source": "Already rebased commits and commits from {0}",
+      "translation": "Commits déjà rebasés et commits de {0}"
+    },
+    "rebase.interactive.dialog.stop.to.edit.text": {
+      "source": "Stop to Edit",
+      "translation": "Arrêter pour modifier"
+    },
+    "rebase.interactive.dialog.title": {
+      "source": "Rebasing Commits",
+      "translation": "Rebase de commits"
+    },
+    "rebase.interactive.dialog.cancel.reword.warning.title": {
+      "source": "Cancel Reword",
+      "translation": "Annuler la modification du message"
+    },
+    "rebase.interactive.edit.commit.message.dialog.title": {
+      "source": "Git Commit Message",
+      "translation": "Message de commit Git"
+    },
+    "action.Git.Update.Reset.To.Remote.Branch.text": {
+      "source": "Reset to the Remote Branch",
+      "translation": "Réinitialiser vers la branche distante",
+      "review": "terminology"
+    },
+    "action.Git.Log.Branches.Change.Branch.Filter.On.Selection.text": {
+      "source": "Update Branch Filter",
+      "translation": "Mettre à jour le filtre de la branche",
+      "review": "terminology"
+    },
+    "action.Git.Log.Show.Branches.text": {
+      "source": "Branches",
+      "translation": "Branches",
+      "review": "terminology"
+    },
+    "clone.dialog.shallow.clone": {
+      "source": "Shallow clone with a history truncated to",
+      "translation": "clone peu profond avec un historique tronquée à",
+      "review": "terminology"
+    },
+    "branches.branches": {
+      "source": "Branches",
+      "translation": "Branches",
+      "review": "terminology"
+    },
+    "branches.remote.branches": {
+      "source": "Remote Branches",
+      "translation": "Branches distantes",
+      "review": "terminology"
+    },
+    "history.filters.unsupported.error.message": {
+      "source": "Filtering history by \"{0}\" is not supported",
+      "translation": "Filtrage de l''historique par \"{0}\" n '' est pas supporté",
+      "review": "terminology"
+    },
+    "find.merged.local.branches.progress.title": {
+      "source": "Searching for merged local branches",
+      "translation": "Recherche de branches locales fusionnées",
+      "review": "terminology"
+    },
+    "rebase.interactive.dialog.discard.modifications.continue": {
+      "source": "Continue Rebasing",
+      "translation": "Continuer le rebase",
+      "review": "manual"
+    },
+    "rebase.interactive.dialog.discard.modifications.message": {
+      "source": "Discard changes and cancel rebase?",
+      "translation": "Abandonner les modifications et annuler le rebase ?",
+      "review": "manual"
+    },
+    "rebase.interactive.edit.commit.message.ok.action.title": {
+      "source": "Continue Rebasing",
+      "translation": "Continuer le rebase",
+      "review": "manual"
+    },
+    "rebase.log.interactive.action.failure.title": {
+      "source": "Cannot Start Rebase",
+      "translation": "Impossible de démarrer le rebase",
+      "review": "manual"
+    },
+    "in.memory.rebase.interactive.failed.title": {
+      "source": "In-memory rebase failed",
+      "translation": "Échec du rebase en mémoire",
+      "review": "manual"
+    },
+    "rebase.notification.continue.failed.unstaged.changes.text": {
+      "source": "There are unstaged changes in tracked files preventing rebase from continuing",
+      "translation": "Des modifications non indexées dans les fichiers suivis empêchent la poursuite du rebase",
+      "review": "manual"
+    },
+    "rebase.update.project.notification.abort.success.message": {
+      "source": "Rebase aborted",
+      "translation": "Rebase annulé",
+      "review": "manual"
+    },
+    "action.Git.Rebase.Abort.text": {
+      "source": "Abort Rebase",
+      "translation": "Annuler le rebase",
+      "review": "manual"
+    },
+    "settings.detached.head": {
+      "source": "Warn when committing in detached HEAD or during rebase",
+      "translation": "Avertir lors d’un commit avec HEAD détachée ou pendant un rebase",
+      "review": "manual"
+    },
+    "gpg.error.text": {
+      "source": "Commit signing failed",
+      "translation": "Échec de la signature du commit",
+      "review": "manual"
+    },
+    "push.rejected.rebase.anyway": {
+      "source": "Rebase Anyway",
+      "translation": "Effectuer le rebase quand même",
+      "review": "manual"
+    },
+    "git.status.bar.widget.text.rebase": {
+      "source": "Rebasing {0}",
+      "translation": "Rebase de {0}",
+      "review": "manual"
+    },
+    "stage.commit.successful": {
+      "source": "Committed {0}: {1}",
+      "translation": "Commit effectué pour {0} : {1}",
+      "review": "manual"
+    },
+    "branches.action.pull.into.branch.using.rebase.selected": {
+      "source": "Pull Into Selected Using Rebase",
+      "translation": "Effectuer un pull vers la branche sélectionnée avec rebase",
+      "review": "manual"
+    },
+    "git.undo.action.successful.notification.message": {
+      "source": "Undo commit successful",
+      "translation": "Commit annulé avec succès",
+      "review": "manual"
+    },
+    "merge.dialog.description.rebase.with.hash.label.text": {
+      "source": "Rebasing{0,choice,0#|1# branch {1}} onto {2}",
+      "translation": "Rebase{0,choice,0#|1# branch {1}} sur {2}",
+      "review": "manual"
+    },
+    "merge.dialog.description.rebase.with.onto.branch.label.text": {
+      "source": "Rebasing{0,choice,0#|1# branch {1}} onto branch {2}{3,choice,0#|1#, revision {4}}",
+      "translation": "Rebase{0,choice,0#|1# branch {1}} sur la branche {2}{3,choice,0#|1#, revision {4}}",
+      "review": "manual"
+    },
+    "merge.dialog.description.rebase.without.onto.info.label.text": {
+      "source": "Rebasing{0,choice,0#|1# branch {1}} onto diverging branches",
+      "translation": "Rebase{0,choice,0#|1# branch {1}} sur des branches divergentes",
+      "review": "manual"
+    },
+    "merge.dialog.description.rebase.conflict.current.commit": {
+      "source": "Current commit {0} made by {1}:",
+      "translation": "Commit actuel {0} créé par {1} :",
+      "review": "manual"
+    },
+    "merge.dialog.diff.left.title.rebase.label.text": {
+      "source": "Rebasing {0} from {1}",
+      "translation": "Rebase de {0} depuis {1}",
+      "review": "manual"
+    },
+    "branch.rebasing.process": {
+      "source": "Rebasing {0}…",
+      "translation": "Rebase de {0}…",
+      "review": "manual"
+    },
+    "button.crlf.fix.dialog.fix.and.commit": {
+      "source": "Fix and Commit",
+      "translation": "Corriger et effectuer le commit",
+      "review": "manual"
+    },
+    "text.crlf.fix.dialog.description.proposed.fix": {
+      "source": "If you choose <b>Fix and Commit</b>, {0} will be executed.<br/>If you choose <b>Commit As Is</b>, the config value won''t be changed.",
+      "translation": "Si vous choisissez <b>Corriger et effectuer le commit</b>, {0} sera exécuté.<br/>Si vous choisissez <b>Effectuer le commit en l’état</b>, la valeur de configuration ne sera pas modifiée.",
+      "review": "manual"
+    },
+    "commit.check.warning.title.commit.during.rebase": {
+      "source": "Rebase in progress in the repository: {0}. Committing during rebase may lead to the commit loss.",
+      "translation": "Un rebase est en cours dans le dépôt : {0}. Effectuer un commit pendant un rebase peut entraîner sa perte.",
+      "review": "manual"
+    },
+    "warning.title.commit.with.unfinished.rebase": {
+      "source": "Unfinished Rebase Process",
+      "translation": "Rebase inachevé",
+      "review": "manual"
+    },
+    "warning.message.commit.with.unfinished.rebase": {
+      "source": "The Git repository at the following path has an <b>unfinished rebase</b> process:<br/>{0}<br/>You probably want to <b>continue rebase</b> instead of committing.<br/>Committing during rebase may lead to the commit loss.",
+      "translation": "Le dépôt Git à l’emplacement suivant contient un <b>rebase inachevé</b> :<br/>{0}<br/>Vous souhaitez probablement <b>continuer le rebase</b> avant d’effectuer un commit.<br/>Effectuer un commit pendant un rebase peut entraîner sa perte.",
+      "review": "manual"
+    },
+    "convert.language.extra.commit.description": {
+      "source": "Extra commit for .{0} > .{1} renames",
+      "translation": "Commit supplémentaire pour les renommages de .{0} vers .{1}",
+      "review": "manual"
+    }
+  },
+  "messages/TerminalBundle.properties": {
+    "action.Terminal.MoveCaretToLineStart.text": {
+      "source": "Move Caret to Line Start",
+      "translation": "Placer le curseur au début de la ligne",
+      "review": "manual"
+    },
+    "action.Terminal.MoveCaretToLineEnd.text": {
+      "source": "Move Caret to Line End",
+      "translation": "Placer le curseur à la fin de la ligne",
+      "review": "manual"
+    },
+    "action.Terminal.PasteFromHistory.text": {
+      "source": "Past_e from History…",
+      "translation": "Coller depuis l’historique…",
+      "review": "manual"
+    }
+  },
+  "messages/FindBundle.properties": {
+    "find.no.usages.at.cursor.error": {
+      "source": "Cannot search for usages from this location.\nPlace the caret on the element to find usages for and try again.",
+      "translation": "Impossible de rechercher des utilisations à partir de cet emplacement.\nPlacez le curseur sur l'élément pour trouver des utilisations pour et essayer à nouveau.",
+      "review": "terminology"
+    }
+  },
+  "messages/CollaborationToolsBundle.properties": {
+    "review.details.action.branch.show.remote.branch.in.log.action.description": {
+      "source": "Show review request branch in Git Log",
+      "translation": "Afficher la branche de la demande d'avis dans Git Log",
+      "review": "terminology"
+    },
+    "review.details.branch.cannot.checkout.as.branch": {
+      "source": "Remote branches are not available for private forks",
+      "translation": "Les branches éloignées ne sont pas disponibles pour les fourches privées",
+      "review": "terminology"
+    }
+  },
+  "messages/XDebuggerBundle.properties": {
+    "xdebugger.evaluate.history.navigate.ad": {
+      "source": "Use {0} to navigate through the history",
+      "translation": "Utilisation {0} pour naviguer dans l''historique",
+      "review": "terminology"
+    }
+  },
+  "messages/SmoothCaretFeedbackBundle.properties": {
+    "feedback.smooth.caret.notification.text": {
+      "source": "Please answer a few questions about your experience with the smooth animated caret.",
+      "translation": "Veuillez répondre à quelques questions sur votre expérience avec le curseur animé lisse.",
+      "review": "terminology"
+    },
+    "feedback.smooth.caret.dialog.description": {
+      "source": "You may have noticed the smooth caret in the editor. We'd love to hear your first impression!",
+      "translation": "Vous avez peut-être remarqué le curseur lisse dans le rédacteur. Nous aimerions entendre votre première impression!",
+      "review": "terminology"
+    },
+    "feedback.smooth.caret.dialog.noticed.question": {
+      "source": "Have you noticed the smooth animated caret in the editor?",
+      "translation": "Avez-vous remarqué le curseur animé en douceur dans l'éditeur ?",
+      "review": "terminology"
+    }
+  },
+  "messages/OptionsBundle.properties": {
+    "options.general.attribute.descriptior.identifier.under.caret.write": {
+      "source": "Code//Identifier under caret (write)",
+      "translation": "Code//Identifier sous le curseur (écriture)",
+      "review": "terminology"
+    }
+  },
+  "messages/EditorBundle.properties": {
+    "move.caret.command.name": {
+      "source": "Move Caret",
+      "translation": "Déplacer le curseur",
+      "review": "terminology"
+    },
+    "print.wrapping.group": {
+      "source": "Wrapping",
+      "translation": "Retours à la ligne",
+      "review": "manual"
+    }
+  },
+  "messages/FeatureStatisticsBundle.properties": {
+    "editing.completion.cancelByControlArrows": {
+      "source": "Cancel lookup and move caret up/down in the editor",
+      "translation": "Annuler la recherche et déplacer le curseur vers le haut / vers le bas dans l'éditeur",
+      "review": "terminology"
+    }
+  },
+  "messages/IdeBundle.properties": {
+    "title.caret": {
+      "source": "Caret",
+      "translation": "Curseur",
+      "review": "terminology"
+    },
+    "label.appearance.caret.blinking": {
+      "source": "Appearance: Caret blinking",
+      "translation": "Apparence: Clignement du curseur",
+      "review": "terminology"
+    }
+  },
+  "messages/CodeInsightBundle.properties": {
+    "completion.ad.moving.caret.down.and.up.in.the.editor": {
+      "source": "{0} and {1} will move caret down and up in the editor",
+      "translation": "{0} et {1} déplacera les curseur en bas et en haut dans l''éditeur",
+      "review": "terminology"
+    }
+  },
+  "messages/RefactoringBundle.properties": {
+    "error.wrong.caret.position.method.or.class.name": {
+      "source": "Caret should be positioned at the name of method or class to be refactored",
+      "translation": "Le curseur doit être placé au nom de la méthode ou de la classe à refactorer",
+      "review": "terminology"
+    },
+    "error.wrong.caret.position.method.or.variable.name": {
+      "source": "Caret should be positioned at the name of method or variable to be refactored",
+      "translation": "Le curseur doit être placé au nom de la méthode ou de la variable à reformuler",
+      "review": "terminology"
+    },
+    "error.wrong.caret.position.class": {
+      "source": "Caret should be positioned inside class to be refactored",
+      "translation": "Le curseur doit être placé à l'intérieur de la classe pour être refactorisé",
+      "review": "terminology"
+    },
+    "error.wrong.caret.position.method.or.local.name": {
+      "source": "Caret should be positioned at the name of element to be refactored",
+      "translation": "Le curseur doit être placé au nom de l'élément à refactorer",
+      "review": "terminology"
+    },
+    "error.wrong.caret.position.symbol.to.refactor": {
+      "source": "Caret should be positioned at symbol to be refactored",
+      "translation": "Le curseur doit être placé au symbole à reformuler.",
+      "review": "terminology"
+    },
+    "the.caret.should.be.positioned.inside.a.class.to.pull.members.from": {
+      "source": "Caret should be positioned inside the class to pull members from",
+      "translation": "Le curseur doit être placé à l'intérieur de la classe pour tirer les membres de",
+      "review": "terminology"
+    },
+    "the.caret.should.be.positioned.inside.a.class.to.push.members.from": {
+      "source": "Caret should be positioned inside the class to push members from",
+      "translation": "Le curseur doit être placé à l'intérieur de la classe pour pousser les membres de",
+      "review": "terminology"
+    },
+    "the.caret.should.be.positioned.at.the.class.method.or.field.to.be.refactored": {
+      "source": "Caret should be positioned at the class, method or field to be refactored",
+      "translation": "Le curseur doit être placé dans la classe, la méthode ou le champ à reformer",
+      "review": "terminology"
+    }
+  },
+  "messages/LocalHistoryBundle.properties": {
+    "action.LocalHistory.ShowHistory.GoToAction.text": {
+      "source": "Show Local History…",
+      "translation": "Afficher l’historique locale...",
+      "review": "terminology"
+    },
+    "action.LocalHistory.ShowHistory.ActionPlace.VcsQuickListPopupAction.text": {
+      "source": "Show Local History…",
+      "translation": "Afficher l’historique locale...",
+      "review": "terminology"
+    },
+    "action.synonym.LocalHistory.ShowSelectionHistory.method.text": {
+      "source": "Show Local History for Method…",
+      "translation": "Afficher l’historique locale pour la méthode...",
+      "review": "terminology"
+    },
+    "action.synonym.LocalHistory.ShowSelectionHistory.class.text": {
+      "source": "Show Local History for Class…",
+      "translation": "Afficher l’historique locale pour la classe...",
+      "review": "terminology"
+    },
+    "action.LocalHistory.ShowProjectHistory.GoToAction.text": {
+      "source": "Show Local History for Project…",
+      "translation": "Afficher l’historique locale pour le projet...",
+      "review": "terminology"
+    },
+    "action.LocalHistory.ShowProjectHistory.Vcs.Toolbar.Widget.text": {
+      "source": "Local History…",
+      "translation": "L’historique locale...",
+      "review": "terminology"
+    },
+    "activity.toolwindow.title": {
+      "source": "Local History",
+      "translation": "Historique local",
+      "review": "manual"
+    },
+    "activity.dialog.title": {
+      "source": "Local History: {0}",
+      "translation": "Historique locale : {0}",
+      "review": "terminology"
+    },
+    "activity.diff.tab.title": {
+      "source": "Local History Diff",
+      "translation": "Différences de l’historique local",
+      "review": "manual"
+    },
+    "activity.diff.tab.title.recent": {
+      "source": "Recent Local History Diff",
+      "translation": "Différences récentes de l’historique local",
+      "review": "manual"
+    },
+    "activity.diff.tab.title.file": {
+      "source": "Local History: {0}",
+      "translation": "Historique locale : {0}",
+      "review": "terminology"
+    },
+    "notification.title.local.history.broken": {
+      "source": "Local History is broken",
+      "translation": "L’historique local est endommagé",
+      "review": "manual"
+    }
+  },
+  "messages/TaskBundle.properties": {
+    "notification.content.context.information.history": {
+      "source": "The context information history for {0} was corrupted.\nThe history has been cleared.",
+      "translation": "L''historique des informations contextuelles pour {0} était corrompu.\nL''historique a été éclaircie.",
+      "review": "terminology"
+    }
+  },
+  "messages/VcsBundle.properties": {
+    "show.history.dialog.title.template": {
+      "source": "History for {0}",
+      "translation": "Historique pour {0}",
+      "review": "terminology"
+    },
+    "changes.days.of.history.to.cache.initially": {
+      "source": "Days of history to cache initially:",
+      "translation": "Jours d'historique à mettre en cache dans un premier temps:",
+      "review": "terminology"
+    },
+    "status.text.commit.toolwindow.local.history": {
+      "source": "Local History…",
+      "translation": "L’historique locale...",
+      "review": "terminology"
+    }
+  },
+  "messages/DvcsBundle.properties": {
+    "branch.popup.vcs.name.branches": {
+      "source": "{0} Branches",
+      "translation": "{0} Branches",
+      "review": "terminology"
+    }
+  },
+  "messages/VcsLogBundle.properties": {
+    "action.help.tooltip.resume.indexing": {
+      "source": "Indexing project repositories improves working with history of changes across IDE:<br/>- Fast log filtering and computing precise history<br/>- Branch filter in file history for revision<br/>- Searching across history in Search Everywhere",
+      "translation": "L'indexation des dépôts de projets améliore le travail avec l'historique des changements à travers IDE:<br/>- Filtrage rapide des journaux et calcul de l'historique précis<br/>- Filtre de branche dans l'historique des fichiers pour révision<br/>- Recherche dans l’historique dans Recherche partout",
+      "review": "terminology"
+    },
+    "file.history.commit.not.found.in.branch": {
+      "source": "{0} does not exist in history for {1} in selected branches",
+      "translation": "{0} n''existe pas dans l''historique pour {1} dans certaines branches",
+      "review": "terminology"
+    },
+    "file.history.commit.not.found": {
+      "source": "{0} does not exist in history for {1}",
+      "translation": "{0} n''existe pas dans l''historique pour {1}",
+      "review": "terminology"
+    }
+  },
+  "messages/SettingsSyncBundle.properties": {
+    "action.settingsSync.history.text": {
+      "source": "Backup and Sync History",
+      "translation": "Sauvegarde et historique de la synchronisation",
+      "review": "terminology"
+    },
+    "history.dialog.title": {
+      "source": "Backup and Sync History",
+      "translation": "Sauvegarde et historique de la synchronisation",
+      "review": "terminology"
+    },
+    "toolwindow.stripe.Settings_Sync_History": {
+      "source": "Backup and Sync History",
+      "translation": "Sauvegarde et historique de la synchronisation",
+      "review": "terminology"
+    }
+  },
+  "messages/Angular2Bundle.properties": {
+    "angular.refactor.extractComponent.unsupported-multiple-carets": {
+      "source": "Please use single caret",
+      "translation": "S'il vous plaît utiliser un seul curseur",
+      "review": "terminology"
+    }
+  },
+  "messages/DockerBundle.properties": {
+    "DockerNetworkDetails.DockerNetworkDashboardTab.driver": {
+      "source": "driver",
+      "translation": "pilote",
+      "review": "terminology"
+    }
+  },
+  "messages/JsLessonsBundle.properties": {
+    "js.editor.completion.parameter.info": {
+      "source": "The tooltip ({0}) we’ve got after placing the caret inside {1} lets you quickly look up the names of parameters in methods and functions. In some situations, you may want to review more detailed documentation. Let’s do it now by pressing {2}.",
+      "translation": "La pointe d''outils ({0}) nous avons obtenu après avoir placé le curseur à l''intérieur {1} vous permet de rechercher rapidement les noms des paramètres dans les méthodes et fonctions. Dans certaines situations, vous pouvez vouloir examiner une documentation plus détaillée. {2}.",
+      "review": "terminology"
+    },
+    "js.editor.navigation.find.usages": {
+      "source": "As a result of our actions, the caret has moved to {0} (line 9). Let’s leave it there and press {1} to open another tool window that can help you quickly find usages of any item.",
+      "translation": "À la suite de nos actions, le curseur a été transféré à {0} (ligne 9). Laissez-le là et appuyez sur {1} pour ouvrir une autre fenêtre d''outils qui peut vous aider à trouver rapidement des utilisations de n''importe quel article.",
+      "review": "terminology"
+    },
+    "js.editor.navigation.go.to.declaration": {
+      "source": "Notice the {0} next to <strong>Go to Declaration or Usages</strong> – it shows you usages for the definition and vice versa. Let’s close the popup, place the caret on {1} (line 16), and press {0} to look for its declaration.",
+      "translation": "Remarquez {0} à côté de <strong>Aller à la déclaration ou aux utilisations</strong> – il vous montre les utilisations pour la définition et vice versa. Laissez-nous fermer le popup, placez le curseur sur {1} (ligne 16), et presser {0} à chercher sa déclaration.",
+      "review": "terminology"
+    },
+    "js.testing.jest.navigate.2": {
+      "source": "You can also quickly find a specific test in {0}. Let’s try it now: place the caret anywhere in the {0} area, type {1}, and press {2} to jump to our test.",
+      "translation": "Vous pouvez également trouver rapidement un test spécifique dans {0}. Essayons maintenant: placez le curseur n''importe où dans le {0} surface, type {1}, et presser {2} de sauter à notre test.",
+      "review": "terminology"
+    }
+  },
+  "messages/MermaidBundle.properties": {
+    "git.graph.inspection.branches.have.same.head": {
+      "source": "Branches ''{0}'' and ''{1}'' have the same head",
+      "translation": "Branches ''{0}'' et ''{1}'' avoir la même tête",
+      "review": "terminology"
+    }
+  },
+  "messages/FrameworkBundle.properties": {
+    "framework.composer.path.dialog.path.to.composer.phar": {
+      "source": "Path to composer.phar or composer",
+      "translation": "Chemin vers composer.phar ou composer",
+      "review": "manual"
+    },
+    "framework.composer.path.dialog.path.to.composer": {
+      "source": "Path to Composer",
+      "translation": "Chemin vers Composer",
+      "review": "manual"
+    },
+    "framework.composer.path.dlg.script.descriptor.description.specify.composer.phar.or.script": {
+      "source": "Specify Composer phar or script",
+      "translation": "Indiquer le fichier PHAR ou le script de Composer",
+      "review": "manual"
+    },
+    "framework.composer.path.dlg.executable.radio.button.composer.executable": {
+      "source": "composer executable",
+      "translation": "Exécutable composer",
+      "review": "manual"
+    },
+    "framework.composer.path.dlg.executable.descriptor.description.specify.composer.executable": {
+      "source": "Specify Composer executable",
+      "translation": "Indiquer l’exécutable Composer",
+      "review": "manual"
+    }
+  },
+  "messages/PhpRemoteSdkBundle.properties": {
+    "label.composer.executable": {
+      "source": "Composer executable:",
+      "translation": "Composer exécutable:",
+      "review": "terminology"
+    },
+    "dialog.message.no.composer.executable.provided": {
+      "source": "No composer executable provided.",
+      "translation": "Aucun Composer exécutable fourni.",
+      "review": "terminology"
+    }
+  },
+  "messages/PhpSharedIndexesBundle.properties": {
+    "notification.consent.content.kind.php.pkg": {
+      "source": "PHP Composer packages",
+      "translation": "Paquets PHP Composer",
+      "review": "terminology"
+    },
+    "php.composer.packages": {
+      "source": "PHP Composer packages:",
+      "translation": "Paquets PHP Composer & #160;:",
+      "review": "terminology"
+    },
+    "presentable.chunk.name.python.php": {
+      "source": "PHP Composer package \"{0}=={1}\"",
+      "translation": "Paquet PHP Composer \"{0}=={1}\"",
+      "review": "terminology"
+    }
+  },
+  "messages/QodanaBundle.properties": {
+    "progress.message.qodana.php.composer.configuring": {
+      "source": "Configuring PHP project with Composer…",
+      "translation": "Configuration du projet PHP avec Composer...",
+      "review": "terminology"
+    }
+  },
+  "messages/RestClientBundle.properties": {
+    "http.client.bidi.dialog.controls.label.text": {
+      "source": "Press {0} to send. Use {1} and {2} to navigate through the history.",
+      "translation": "Appuyez sur {0} à envoyer. Utiliser {1} et {2} pour naviguer dans l''historique.",
+      "review": "terminology"
+    }
+  },
+  "messages/GitFrontendBundle.properties": {
+    "MainToolbarQuickActions.Git.History.text": {
+      "source": "Show History…",
+      "translation": "Afficher l’historique...",
+      "review": "terminology"
+    }
+  },
+  "messages/GithubBundle.properties": {
+    "pull.request.create.input.remote.branch.title": {
+      "source": "New Remote Branch for Pull Request",
+      "translation": "Nouvelle branche distante pour la demande de tirage",
+      "review": "terminology"
+    }
+  },
+  "messages/GitLabBundle.properties": {
+    "merge.request.create.branch.dialog.title": {
+      "source": "New Remote Branch for Merge Request",
+      "translation": "Nouvelle branche distante pour la demande de fusion",
+      "review": "terminology"
+    }
+  },
+  "messages/WordPressBundle.properties": {
+    "wp.cli.path.dlg.radio.button.executable.available.installed.via.composer.etc": {
+      "source": "Executable available (installed via Composer, etc.)",
+      "translation": "Exécutable disponible (installé par Composer, etc.)",
+      "review": "terminology"
+    }
+  },
+  "messages/RefactorXBundle.properties": {
+    "dialog.message.cannot.perform.refactoring.caret.should.be.positioned.at.attribute.to.be.refactored": {
+      "source": "Cannot perform the refactoring.\nThe caret should be positioned at the attribute to be refactored.",
+      "translation": "Impossible d'effectuer le refactoring.\nLe curseur doit être placé à l'attribut à refactorer.",
+      "review": "terminology"
+    },
+    "dialog.message.cannot.perform.refactoring.caret.should.be.positioned.at.tag.to.be.refactored": {
+      "source": "Cannot perform the refactoring.\nThe caret should be positioned at a tag to be refactored.",
+      "translation": "Impossible d'effectuer le refactoring.\nLe curseur doit être placé sur une étiquette à reformuler.",
+      "review": "terminology"
+    }
+  },
+  "messages/SqlBundle.properties": {
+    "settings.code.style.wrapping": {
+      "source": "Wrapping",
+      "translation": "Retours à la ligne",
+      "review": "manual"
+    }
+  }
+}

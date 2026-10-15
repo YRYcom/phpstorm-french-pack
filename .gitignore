@@ -1,0 +1,22 @@
+# Python and local editor files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+.env
+.env.*
+
+# Generated resources, archives and verification reports
+/build/
+/dist/
+*.log
+/verification-*/
+/tools/verifier.jar
+
+# Downloaded model; retain the integrity manifest
+/model/*
+!/model/sha256.json

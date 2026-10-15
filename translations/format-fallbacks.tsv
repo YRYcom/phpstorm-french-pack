@@ -1,0 +1,3 @@
+messages/RestClientBundle.properties	http.request.create.new.environment.tooltip.text
+messages/CloudBundle.properties	editor.pane.text.empty.text
+messages/VcsBundle.properties	multiple.file.iterative.merge.tooltip
